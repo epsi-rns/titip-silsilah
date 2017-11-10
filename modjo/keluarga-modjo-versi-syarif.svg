@@ -3074,7 +3074,7 @@
        id="path-effect6096-0"
        effect="spiro" />
     <filter
-       style="color-interpolation-filters:sRGB"
+       style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter6883">
       <feFlood
@@ -3102,8 +3102,41 @@
          in="SourceGraphic"
          in2="offset"
          operator="over"
-         result="composite2"
+         result="fbSourceGraphic"
          id="feComposite6881" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1614" />
+      <feFlood
+         id="feFlood1616"
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite1618"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur1620"
+         in="composite1"
+         stdDeviation="3"
+         result="blur" />
+      <feOffset
+         id="feOffset1622"
+         dx="5"
+         dy="5"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite1624"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
@@ -4129,6 +4162,582 @@
          result="composite2"
          id="feComposite7265" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1636">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1626" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1628" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1630" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1632" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1634" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1648">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1638" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1640" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1642" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1644" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1646" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1660">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1650" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1652" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1654" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1656" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1658" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1672">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1662" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1664" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1666" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1668" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1670" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1684">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1674" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1676" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1678" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1680" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1682" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1696">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1686" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1688" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1690" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1692" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1694" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1708">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1698" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1700" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1702" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1704" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1706" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1720">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1710" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1712" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1714" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1716" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1718" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1732">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1722" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1724" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1726" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1728" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1730" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1744">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1734" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1736" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1738" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1740" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1742" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1756">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1746" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1748" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1750" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1752" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1754" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1768">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1758" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1760" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1762" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1764" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1766" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1780">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1770" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1772" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1774" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1776" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1778" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1792">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1782" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1784" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1786" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1788" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1790" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1804">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1794" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1796" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1798" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1800" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1802" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1816">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1806" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1808" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1810" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1812" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1814" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1828">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1818" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1820" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1822" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1824" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1826" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1840">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1830" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1832" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1834" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset1836" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1838" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -4137,16 +4746,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66556426"
-     inkscape:cx="863.21381"
+     inkscape:zoom="0.470625"
+     inkscape:cx="926.42762"
      inkscape:cy="360"
      inkscape:document-units="px"
-     inkscape:current-layer="g1212"
+     inkscape:current-layer="g1462"
      showgrid="false"
      inkscape:window-width="1276"
      inkscape:window-height="748"
-     inkscape:window-x="-4"
-     inkscape:window-y="44"
+     inkscape:window-x="-8"
+     inkscape:window-y="64"
      inkscape:window-maximized="0"
      units="px"
      fit-margin-top="0"
@@ -4199,7 +4808,8 @@
          sodipodi:role="line" /></text>
     <g
        id="g2024"
-       transform="translate(-50)">
+       transform="translate(-50,-25)"
+       style="filter:url(#filter1636)">
       <rect
          style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1411"
@@ -4266,822 +4876,508 @@
            y="504.55634">I</tspan></text>
     </g>
     <g
-       id="g6850"
-       transform="translate(1150,-5.0000016)">
-      <rect
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect6474"
-         width="239"
-         height="25"
-         x="170.5"
-         y="941.86206" />
-      <text
-         id="text6478"
-         y="959.55676"
-         x="229.0625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1774"
-           x="229.0625"
-           y="959.55676">Kyai Sirriman (Solo)</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="203.81348"
-         y="960.14972"
-         id="text6482"><tspan
-           sodipodi:role="line"
-           id="tspan6480"
-           x="203.81348"
-           y="960.14972">♂</tspan></text>
-    </g>
-    <g
-       id="g6864"
-       transform="translate(1150,-5.0000016)">
-      <rect
-         y="966.86206"
-         x="170.5"
-         height="25"
-         width="239"
-         id="rect6484"
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="229.0625"
-         y="984.55676"
-         id="text6488"><tspan
-           sodipodi:role="line"
-           id="tspan1778"
-           x="229.0625"
-           y="984.55676">Kyai Imam Puro (Ponorogo)</tspan></text>
-      <text
-         id="text6492"
-         y="985.14972"
-         x="203.81348"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="985.14972"
-           x="203.81348"
-           id="tspan6490"
-           sodipodi:role="line">♂</tspan></text>
-    </g>
-    <g
-       id="g6871"
-       transform="translate(1150,-255)">
-      <rect
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect6494"
-         width="239"
-         height="25"
-         x="170.5"
-         y="1241.8621" />
-      <text
-         id="text6498"
-         y="1259.5568"
-         x="229.0625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1780"
-           x="229.0625"
-           y="1259.5568">Mangun Rejo (Kediri)</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="203.81348"
-         y="1260.1497"
-         id="text6502"><tspan
-           sodipodi:role="line"
-           id="tspan6500"
-           x="203.81348"
-           y="1260.1497">♂</tspan></text>
-    </g>
-    <g
-       id="g6817"
-       transform="translate(-50,-5.0000616)">
-      <rect
-         y="941.86206"
-         x="470.5"
-         height="25"
-         width="239"
-         id="rect6510"
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="529.0625"
-         y="959.55676"
-         id="text6514"><tspan
-           sodipodi:role="line"
-           id="tspan1766"
-           x="529.0625"
-           y="959.55676">Kyai Zaed (Mekah)</tspan></text>
-      <text
-         id="text6518"
-         y="960.14972"
-         x="503.81348"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="960.14972"
-           x="503.81348"
-           id="tspan6516"
-           sodipodi:role="line">♂</tspan></text>
-    </g>
-    <g
-       id="g6824"
-       transform="translate(-50,-5.0000616)">
-      <rect
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect6520"
-         width="239"
-         height="25"
-         x="470.5"
-         y="966.86206" />
-      <text
-         id="text6524"
-         y="984.55676"
-         x="529.0625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1768"
-           x="529.0625"
-           y="984.55676">Kyai Ghozali (Jaton)</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="503.81348"
-         y="985.14972"
-         id="text6528"><tspan
-           sodipodi:role="line"
-           id="tspan6526"
-           x="503.81348"
-           y="985.14972">♂</tspan></text>
-    </g>
-    <g
-       id="g6831"
-       transform="translate(-50,-5.0000616)">
-      <rect
-         style="opacity:1;fill:#f48fb1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect6532"
-         width="239"
-         height="25"
-         x="470.5"
-         y="991.86206" />
-      <text
-         id="text6536"
-         y="1009.5568"
-         x="529.0625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="1009.5568"
-           x="529.0625"
-           id="tspan6552"
-           sodipodi:role="line">Nyai Habibah</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="503.81348"
-         y="1010.1497"
-         id="text6540"><tspan
-           sodipodi:role="line"
-           id="tspan6538"
-           x="503.81348"
-           y="1010.1497">♀</tspan></text>
-    </g>
-    <g
-       id="g6838"
-       transform="translate(-50,-5.0000616)">
-      <rect
-         y="1016.8621"
-         x="470.5"
-         height="25"
-         width="239"
-         id="rect6542"
-         style="opacity:1;fill:#f48fb1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="529.0625"
-         y="1034.5568"
-         id="text6546"><tspan
-           sodipodi:role="line"
-           id="tspan1742"
-           x="529.0625"
-           y="1034.5568">Nyai Sotoriyah</tspan></text>
-      <text
-         id="text6550"
-         y="1035.1497"
-         x="503.81348"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="1035.1497"
-           x="503.81348"
-           id="tspan6548"
-           sodipodi:role="line">♀</tspan></text>
-    </g>
-    <g
-       id="g1040"
-       transform="translate(-50,-254.99995)">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1034"
-         width="239"
-         height="50"
-         x="470.5"
-         y="741.86206" />
-      <text
-         id="text1038"
-         y="759.54956"
-         x="478.97461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1098"
-           x="478.97461"
-           y="759.54956">Istri 1: RAy. Pringgokusumo</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="478.97461"
-         y="784.54987"
-         id="text1280"><tspan
-           sodipodi:role="line"
-           id="tspan1296"
-           x="478.97461"
-           y="784.54987">Putri Ki Ageng Wonokusumo Wonotoro </tspan></text>
-    </g>
-    <g
-       id="g1048"
-       transform="translate(-50,-254.99995)">
-      <rect
-         y="741.86206"
-         x="770.5"
-         height="50"
-         width="239"
-         id="rect1042"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="778.97461"
-         y="759.54956"
-         id="text1046"><tspan
-           sodipodi:role="line"
-           id="tspan1100"
-           x="778.97461"
-           y="759.54956">Istri 2: RAy. Wiromenggollo</tspan></text>
-      <text
-         id="text1284"
-         y="784.54987"
-         x="778.97461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1298"
-           x="778.97461"
-           y="784.54987">Putri Kajoran Putri Pangeran Purboyo 1</tspan></text>
-    </g>
-    <g
-       id="g1056"
-       transform="translate(-50,-254.99995)">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1050"
-         width="239"
-         height="50"
-         x="1070.5"
-         y="741.86206" />
-      <text
-         id="text1054"
-         y="759.54956"
-         x="1078.9746"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1102"
-           x="1078.9746"
-           y="759.54956">Istri 3: Putri Madiun</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="1078.9746"
-         y="784.54919"
-         id="text1288"><tspan
-           sodipodi:role="line"
-           id="tspan1294"
-           x="1078.9746"
-           y="784.54919">Cucu Kyai Basariyah Sewulan</tspan></text>
-    </g>
-    <g
-       id="g1114"
-       transform="translate(-50,-230.00001)"
-       inkscape:transform-center-x="10.837156"
-       inkscape:transform-center-y="-1.5481651">
-      <rect
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1104"
-         width="239"
-         height="25"
-         x="770.5"
-         y="766.86206" />
-      <text
-         id="text1108"
-         y="784.55676"
-         x="829.0625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1072"
-           x="829.0625"
-           y="784.55676">P. Adipati Sencoko (Pengging)</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="803.81348"
-         y="785.14972"
-         id="text1112"><tspan
-           sodipodi:role="line"
-           id="tspan1110"
-           x="803.81348"
-           y="785.14972">♂</tspan></text>
-    </g>
-    <g
-       transform="translate(-350,-230.00001)"
-       id="g1126">
-      <rect
-         y="766.86206"
-         x="770.5"
-         height="25"
-         width="239"
-         id="rect1116"
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="829.0625"
-         y="784.55676"
-         id="text1120"><tspan
-           sodipodi:role="line"
-           id="tspan1174"
-           x="829.0625"
-           y="784.55676">Kyai Jumal Qorib</tspan></text>
-      <text
-         id="text1124"
-         y="785.14972"
-         x="803.81348"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="785.14972"
-           x="803.81348"
-           id="tspan1122"
-           sodipodi:role="line">♂</tspan></text>
-    </g>
-    <g
-       transform="translate(250,-230.00001)"
-       id="g1138">
-      <rect
-         y="766.86206"
-         x="770.5"
-         height="25"
-         width="239"
-         id="rect1128"
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="829.0625"
-         y="784.55676"
-         id="text1132"><tspan
-           sodipodi:role="line"
-           id="tspan1144"
-           x="829.0625"
-           y="784.55676">Sayid Arfiyyah</tspan></text>
-      <text
-         id="text1136"
-         y="785.14972"
-         x="803.81348"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="785.14972"
-           x="803.81348"
-           id="tspan1134"
-           sodipodi:role="line">♂</tspan></text>
-    </g>
-    <g
-       inkscape:transform-center-y="-1.5481651"
-       inkscape:transform-center-x="10.837156"
-       transform="translate(-50,-104.99994)"
-       id="g1212">
-      <rect
-         y="766.86206"
-         x="770.5"
-         height="25"
-         width="239"
-         id="rect1202"
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="829.0625"
-         y="784.55676"
-         id="text1206"><tspan
-           sodipodi:role="line"
-           id="tspan1074"
-           x="829.0625"
-           y="784.55676">P. Adipati Danupoyo (Pengging)</tspan></text>
-      <text
-         id="text1210"
-         y="785.14972"
-         x="803.81348"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="785.14972"
-           x="803.81348"
-           id="tspan1208"
-           sodipodi:role="line">♂</tspan></text>
-    </g>
-    <g
-       id="g1224"
-       transform="translate(-350,-104.99994)">
-      <rect
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1214"
-         width="239"
-         height="25"
-         x="770.5"
-         y="766.86206" />
-      <text
-         id="text1218"
-         y="784.55676"
-         x="829.0625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1344"
-           x="829.0625"
-           y="784.55676">RM. Citrokusumo</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="803.81348"
-         y="785.14972"
-         id="text1222"><tspan
-           sodipodi:role="line"
-           id="tspan1220"
-           x="803.81348"
-           y="785.14972">♂</tspan></text>
-    </g>
-    <g
-       id="g1236"
-       transform="translate(250,-104.99994)">
-      <rect
-         style="opacity:1;fill:#f48fb1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1226"
-         width="239"
-         height="25"
-         x="770.5"
-         y="766.86206" />
-      <text
-         id="text1230"
-         y="784.55676"
-         x="829.0625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1384"
-           x="829.0625"
-           y="784.55676">Nyai Abdul Jalal 1 (Kalioso)</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="803.81348"
-         y="785.14972"
-         id="text1234"><tspan
-           sodipodi:role="line"
-           id="tspan1386"
-           x="803.81348"
-           y="785.14972">♀</tspan></text>
-    </g>
-    <g
-       transform="translate(-50,-129.99994)"
-       id="g1310">
-      <rect
-         y="741.86206"
-         x="470.5"
-         height="50"
-         width="239"
-         id="rect1300"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="478.97461"
-         y="759.54956"
-         id="text1304"><tspan
-           sodipodi:role="line"
-           id="tspan1336"
-           x="478.97461"
-           y="759.54956">Istri 1: RAy. Pringgoloyo</tspan></text>
-      <text
-         id="text1308"
-         y="784.54987"
-         x="478.97461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1338"
-           x="478.97461"
-           y="784.54987">Putri Kajoran Putri Pangeran Purboyo 2</tspan></text>
-    </g>
-    <g
-       transform="translate(-50,-129.99994)"
-       id="g1322">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1312"
-         width="239"
-         height="50"
-         x="770.5"
-         y="741.86206" />
-      <text
-         id="text1316"
-         y="759.54956"
-         x="778.97461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
+       id="g1177"
+       style="filter:url(#filter1648)">
+      <g
+         transform="translate(-50,-279.99995)"
+         id="g1048">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1042"
+           width="239"
+           height="50"
+           x="770.5"
+           y="741.86206" />
+        <text
+           id="text1046"
            y="759.54956"
            x="778.97461"
-           id="tspan1314"
-           sodipodi:role="line">Istri 2: RAy. Wiromenggollo</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="778.97461"
-         y="784.54987"
-         id="text1320"><tspan
-           id="tspan1318"
-           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="759.54956"
+             x="778.97461"
+             id="tspan1100"
+             sodipodi:role="line">Istri 2: RAy. Wiromenggollo</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="778.97461"
-           y="784.54987">Putri Sunan Paku Buwono 2</tspan></text>
-    </g>
-    <g
-       transform="translate(-50,-129.99994)"
-       id="g1334">
-      <rect
-         y="741.86206"
-         x="1070.5"
-         height="50"
-         width="239"
-         id="rect1324"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="1078.9746"
-         y="759.54956"
-         id="text1328"><tspan
-           sodipodi:role="line"
-           id="tspan1340"
-           x="1078.9746"
-           y="759.54956">Istri 3: RAy. Mursiyyah Arif</tspan></text>
-      <text
-         id="text1332"
-         y="784.54919"
-         x="1078.9746"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1342"
-           x="1078.9746"
-           y="784.54919">Putri Sunan Mangkurat Jawi 4</tspan></text>
-    </g>
-    <g
-       id="g1414"
-       transform="translate(-50,19.999998)"
-       inkscape:transform-center-x="10.837156"
-       inkscape:transform-center-y="-1.5481651">
-      <rect
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1404"
-         width="239"
-         height="25"
-         x="770.5"
-         y="766.86206" />
-      <text
-         id="text1408"
-         y="784.55676"
-         x="829.0625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1528"
+           y="784.54987"
+           id="text1284"><tspan
+             y="784.54987"
+             x="778.97461"
+             id="tspan1298"
+             sodipodi:role="line">Putri Kajoran Putri Pangeran Purboyo 1</tspan></text>
+      </g>
+      <g
+         inkscape:transform-center-y="-1.5481651"
+         inkscape:transform-center-x="10.837156"
+         transform="translate(-50,-255.00001)"
+         id="g1114">
+        <rect
+           y="766.86206"
+           x="770.5"
+           height="25"
+           width="239"
+           id="rect1104"
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="829.0625"
-           y="784.55676">Kyai Imam Muhammad</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="803.81348"
-         y="785.14972"
-         id="text1412"><tspan
-           sodipodi:role="line"
-           id="tspan1410"
-           x="803.81348"
-           y="785.14972">♂</tspan></text>
-    </g>
-    <g
-       transform="translate(-350,19.999998)"
-       id="g1426">
-      <rect
-         y="766.86206"
-         x="770.5"
-         height="25"
-         width="239"
-         id="rect1416"
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="829.0625"
-         y="784.55676"
-         id="text1420"><tspan
-           sodipodi:role="line"
-           id="tspan1526"
-           x="829.0625"
-           y="784.55676">Muslim Muhammad Kholifah</tspan></text>
-      <text
-         id="text1424"
-         y="785.14972"
-         x="803.81348"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
+           y="784.55676"
+           id="text1108"><tspan
+             y="784.55676"
+             x="829.0625"
+             id="tspan1072"
+             sodipodi:role="line">P. Adipati Sencoko (Pengging)</tspan></text>
+        <text
+           id="text1112"
            y="785.14972"
            x="803.81348"
-           id="tspan1422"
-           sodipodi:role="line">♂</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="785.14972"
+             x="803.81348"
+             id="tspan1110"
+             sodipodi:role="line">♂</tspan></text>
+      </g>
     </g>
     <g
-       id="g1450"
-       transform="translate(-50,-5.0000016)">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1440"
-         width="239"
-         height="50"
-         x="470.5"
-         y="741.86206" />
-      <text
-         id="text1444"
-         y="759.54956"
-         x="478.97461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1484"
+       id="g1191"
+       style="filter:url(#filter1660)">
+      <g
+         transform="translate(-50,-279.99995)"
+         id="g1040">
+        <rect
+           y="741.86206"
+           x="470.5"
+           height="50"
+           width="239"
+           id="rect1034"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="478.97461"
-           y="759.54956">Istri 3: RAy. Musrifah Arif</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="478.97461"
-         y="784.54987"
-         id="text1448"><tspan
-           sodipodi:role="line"
-           id="tspan1488"
+           y="759.54956"
+           id="text1038"><tspan
+             y="759.54956"
+             x="478.97461"
+             id="tspan1098"
+             sodipodi:role="line">Istri 1: RAy. Pringgokusumo</tspan></text>
+        <text
+           id="text1280"
+           y="784.54987"
            x="478.97461"
-           y="784.54987">Putri Raden Ronggo Prawirodirjo 2</tspan></text>
-    </g>
-    <g
-       id="g1462"
-       transform="translate(-50,-5.0000016)">
-      <rect
-         y="741.86206"
-         x="770.5"
-         height="50"
-         width="239"
-         id="rect1452"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="778.97461"
-         y="759.54956"
-         id="text1456"><tspan
-           sodipodi:role="line"
-           id="tspan1490"
-           x="778.97461"
-           y="759.54956">Istri 2: RAy. Citrokusumo</tspan></text>
-      <text
-         id="text1460"
-         y="784.54987"
-         x="778.97461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1492"
-           x="778.97461"
-           y="784.54987">Putri Gading Putri P. Temanggung</tspan></text>
-    </g>
-    <g
-       id="g1474"
-       transform="translate(-50,44.999998)">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1464"
-         width="239"
-         height="50"
-         x="1070.5"
-         y="691.86206" />
-      <text
-         id="text1468"
-         y="709.54956"
-         x="1078.9746"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1708"
-           x="1078.9746"
-           y="709.54956">Istri 1: RAy. Mursilah Arif</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="1078.9746"
-         y="734.54919"
-         id="text1472"><tspan
-           sodipodi:role="line"
-           id="tspan1496"
-           x="1078.9746"
-           y="734.54919">Putri Kajoran Putri Pangeran Purboyo 3</tspan></text>
-    </g>
-    <g
-       id="g1508"
-       transform="translate(-350,44.999998)">
-      <rect
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1498"
-         width="239"
-         height="25"
-         x="770.5"
-         y="766.86206" />
-      <text
-         id="text1502"
-         y="784.55676"
-         x="829.0625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1740"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="784.54987"
+             x="478.97461"
+             id="tspan1296"
+             sodipodi:role="line">Putri Ki Ageng Wonokusumo Wonotoro </tspan></text>
+      </g>
+      <g
+         id="g1126"
+         transform="translate(-350,-255.00001)">
+        <rect
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1116"
+           width="239"
+           height="25"
+           x="770.5"
+           y="766.86206" />
+        <text
+           id="text1120"
+           y="784.55676"
            x="829.0625"
-           y="784.55676">Kyai Wiropati/ Baderan 2</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="803.81348"
-         y="785.14972"
-         id="text1506"><tspan
-           sodipodi:role="line"
-           id="tspan1504"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="784.55676"
+             x="829.0625"
+             id="tspan1174"
+             sodipodi:role="line">Kyai Jumal Qorib</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="803.81348"
-           y="785.14972">♂</tspan></text>
+           y="785.14972"
+           id="text1124"><tspan
+             sodipodi:role="line"
+             id="tspan1122"
+             x="803.81348"
+             y="785.14972">♂</tspan></text>
+      </g>
     </g>
     <g
-       inkscape:transform-center-y="-1.5481651"
-       inkscape:transform-center-x="10.837156"
-       transform="translate(250,19.999998)"
-       id="g1522">
-      <rect
-         y="766.86206"
-         x="770.5"
-         height="25"
-         width="239"
-         id="rect1512"
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="829.0625"
-         y="784.55676"
-         id="text1516"><tspan
-           sodipodi:role="line"
-           id="tspan1530"
+       id="g1163"
+       style="filter:url(#filter1672)">
+      <g
+         transform="translate(-50,-279.99995)"
+         id="g1056">
+        <rect
+           y="741.86206"
+           x="1070.5"
+           height="50"
+           width="239"
+           id="rect1050"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1078.9746"
+           y="759.54956"
+           id="text1054"><tspan
+             y="759.54956"
+             x="1078.9746"
+             id="tspan1102"
+             sodipodi:role="line">Istri 3: Putri Madiun</tspan></text>
+        <text
+           id="text1288"
+           y="784.54919"
+           x="1078.9746"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="784.54919"
+             x="1078.9746"
+             id="tspan1294"
+             sodipodi:role="line">Cucu Kyai Basariyah Sewulan</tspan></text>
+      </g>
+      <g
+         id="g1138"
+         transform="translate(250,-255.00001)">
+        <rect
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1128"
+           width="239"
+           height="25"
+           x="770.5"
+           y="766.86206" />
+        <text
+           id="text1132"
+           y="784.55676"
            x="829.0625"
-           y="784.55676">Kyai Hasan Besari</tspan></text>
-      <text
-         id="text1520"
-         y="785.14972"
-         x="803.81348"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="784.55676"
+             x="829.0625"
+             id="tspan1144"
+             sodipodi:role="line">Sayid Arfiyyah</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="803.81348"
+           y="785.14972"
+           id="text1136"><tspan
+             sodipodi:role="line"
+             id="tspan1134"
+             x="803.81348"
+             y="785.14972">♂</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1266"
+       style="filter:url(#filter1684)">
+      <g
+         transform="translate(-350,-129.99994)"
+         id="g1224">
+        <rect
+           y="766.86206"
+           x="770.5"
+           height="25"
+           width="239"
+           id="rect1214"
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="829.0625"
+           y="784.55676"
+           id="text1218"><tspan
+             y="784.55676"
+             x="829.0625"
+             id="tspan1344"
+             sodipodi:role="line">RM. Citrokusumo</tspan></text>
+        <text
+           id="text1222"
            y="785.14972"
            x="803.81348"
-           id="tspan1518"
-           sodipodi:role="line">♂</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="785.14972"
+             x="803.81348"
+             id="tspan1220"
+             sodipodi:role="line">♂</tspan></text>
+      </g>
+      <g
+         id="g1310"
+         transform="translate(-50,-154.99994)">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1300"
+           width="239"
+           height="50"
+           x="470.5"
+           y="741.86206" />
+        <text
+           id="text1304"
+           y="759.54956"
+           x="478.97461"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="759.54956"
+             x="478.97461"
+             id="tspan1336"
+             sodipodi:role="line">Istri 1: RAy. Pringgoloyo</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="478.97461"
+           y="784.54987"
+           id="text1308"><tspan
+             y="784.54987"
+             x="478.97461"
+             id="tspan1338"
+             sodipodi:role="line">Putri Kajoran Putri Pangeran Purboyo 2</tspan></text>
+      </g>
     </g>
     <g
-       transform="translate(-50,69.999998)"
-       id="g1542">
+       id="g1252"
+       style="filter:url(#filter1696)">
+      <g
+         id="g1212"
+         transform="translate(-50,-129.99994)"
+         inkscape:transform-center-x="10.837156"
+         inkscape:transform-center-y="-1.5481651">
+        <rect
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1202"
+           width="239"
+           height="25"
+           x="770.5"
+           y="766.86206" />
+        <text
+           id="text1206"
+           y="784.55676"
+           x="829.0625"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="784.55676"
+             x="829.0625"
+             id="tspan1074"
+             sodipodi:role="line">P. Adipati Danupoyo (Pengging)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="803.81348"
+           y="785.14972"
+           id="text1210"><tspan
+             sodipodi:role="line"
+             id="tspan1208"
+             x="803.81348"
+             y="785.14972">♂</tspan></text>
+      </g>
+      <g
+         id="g1322"
+         transform="translate(-50,-154.99994)">
+        <rect
+           y="741.86206"
+           x="770.5"
+           height="50"
+           width="239"
+           id="rect1312"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="778.97461"
+           y="759.54956"
+           id="text1316"><tspan
+             sodipodi:role="line"
+             id="tspan1314"
+             x="778.97461"
+             y="759.54956">Istri 2: RAy. Wiromenggollo</tspan></text>
+        <text
+           id="text1320"
+           y="784.54987"
+           x="778.97461"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="784.54987"
+             x="778.97461"
+             sodipodi:role="line"
+             id="tspan1318">Putri Sunan Paku Buwono 2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1312"
+       style="filter:url(#filter1708)">
+      <g
+         inkscape:transform-center-y="-1.5481651"
+         inkscape:transform-center-x="10.837156"
+         transform="translate(-50,-5.0000015)"
+         id="g1414">
+        <rect
+           y="766.86206"
+           x="770.5"
+           height="25"
+           width="239"
+           id="rect1404"
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="829.0625"
+           y="784.55676"
+           id="text1408"><tspan
+             y="784.55676"
+             x="829.0625"
+             id="tspan1528"
+             sodipodi:role="line">Kyai Imam Muhammad</tspan></text>
+        <text
+           id="text1412"
+           y="785.14972"
+           x="803.81348"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="785.14972"
+             x="803.81348"
+             id="tspan1410"
+             sodipodi:role="line">♂</tspan></text>
+      </g>
+      <g
+         transform="translate(-50,-30.000001)"
+         id="g1462">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1452"
+           width="239"
+           height="50"
+           x="770.5"
+           y="741.86206" />
+        <text
+           id="text1456"
+           y="759.54956"
+           x="778.97461"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="759.54956"
+             x="778.97461"
+             id="tspan1490"
+             sodipodi:role="line">Istri 2: RAy. Citrokusumo</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="778.97461"
+           y="784.54987"
+           id="text1460"><tspan
+             y="784.54987"
+             x="778.97461"
+             id="tspan1492"
+             sodipodi:role="line">Putri Gading Putri P. Tumenggung</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1332"
+       style="filter:url(#filter1720)">
+      <g
+         id="g1426"
+         transform="translate(-350,-5.0000015)">
+        <rect
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1416"
+           width="239"
+           height="25"
+           x="770.5"
+           y="766.86206" />
+        <text
+           id="text1420"
+           y="784.55676"
+           x="829.0625"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="784.55676"
+             x="829.0625"
+             id="tspan1526"
+             sodipodi:role="line">Muslim Muhammad Kholifah</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="803.81348"
+           y="785.14972"
+           id="text1424"><tspan
+             sodipodi:role="line"
+             id="tspan1422"
+             x="803.81348"
+             y="785.14972">♂</tspan></text>
+      </g>
+      <g
+         transform="translate(-50,-30.000001)"
+         id="g1450">
+        <rect
+           y="741.86206"
+           x="470.5"
+           height="50"
+           width="239"
+           id="rect1440"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="478.97461"
+           y="759.54956"
+           id="text1444"><tspan
+             y="759.54956"
+             x="478.97461"
+             id="tspan1484"
+             sodipodi:role="line">Istri 3: RAy. Musrifah Arif</tspan></text>
+        <text
+           id="text1448"
+           y="784.54987"
+           x="478.97461"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="784.54987"
+             x="478.97461"
+             id="tspan1488"
+             sodipodi:role="line">Putri Raden Ronggo Prawirodirjo 2</tspan></text>
+      </g>
+      <g
+         transform="translate(-350,19.999998)"
+         id="g1508">
+        <rect
+           y="766.86206"
+           x="770.5"
+           height="25"
+           width="239"
+           id="rect1498"
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="829.0625"
+           y="784.55676"
+           id="text1502"><tspan
+             y="784.55676"
+             x="829.0625"
+             id="tspan1740"
+             sodipodi:role="line">Kyai Wiropati/ Baderan 2</tspan></text>
+        <text
+           id="text1506"
+           y="785.14972"
+           x="803.81348"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="785.14972"
+             x="803.81348"
+             id="tspan1504"
+             sodipodi:role="line">♂</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(-50,44.999998)"
+       id="g1542"
+       style="filter:url(#filter1732)">
       <rect
          y="766.86206"
          x="770.5"
@@ -5111,39 +5407,168 @@
            sodipodi:role="line">♀</tspan></text>
     </g>
     <g
-       transform="translate(-50,145)"
-       id="g1662">
-      <rect
-         y="741.86206"
-         x="470.5"
-         height="50"
-         width="239"
-         id="rect1652"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="478.97461"
-         y="759.54956"
-         id="text1656"><tspan
-           sodipodi:role="line"
-           id="tspan1710"
+       id="g1364"
+       style="filter:url(#filter1744)">
+      <g
+         transform="translate(-50,-5.0000616)"
+         id="g6817">
+        <rect
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6510"
+           width="239"
+           height="25"
+           x="470.5"
+           y="941.86206" />
+        <text
+           id="text6514"
+           y="959.55676"
+           x="529.0625"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="959.55676"
+             x="529.0625"
+             id="tspan1766"
+             sodipodi:role="line">Kyai Zaed (Mekah)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="503.81348"
+           y="960.14972"
+           id="text6518"><tspan
+             sodipodi:role="line"
+             id="tspan6516"
+             x="503.81348"
+             y="960.14972">♂</tspan></text>
+      </g>
+      <g
+         transform="translate(-50,-5.0000616)"
+         id="g6824">
+        <rect
+           y="966.86206"
+           x="470.5"
+           height="25"
+           width="239"
+           id="rect6520"
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="529.0625"
+           y="984.55676"
+           id="text6524"><tspan
+             y="984.55676"
+             x="529.0625"
+             id="tspan1768"
+             sodipodi:role="line">Kyai Ghozali (Jaton)</tspan></text>
+        <text
+           id="text6528"
+           y="985.14972"
+           x="503.81348"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="985.14972"
+             x="503.81348"
+             id="tspan6526"
+             sodipodi:role="line">♂</tspan></text>
+      </g>
+      <g
+         transform="translate(-50,-5.0000616)"
+         id="g6831">
+        <rect
+           y="991.86206"
+           x="470.5"
+           height="25"
+           width="239"
+           id="rect6532"
+           style="opacity:1;fill:#f48fb1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="529.0625"
+           y="1009.5568"
+           id="text6536"><tspan
+             sodipodi:role="line"
+             id="tspan6552"
+             x="529.0625"
+             y="1009.5568">Nyai Habibah</tspan></text>
+        <text
+           id="text6540"
+           y="1010.1497"
+           x="503.81348"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="1010.1497"
+             x="503.81348"
+             id="tspan6538"
+             sodipodi:role="line">♀</tspan></text>
+      </g>
+      <g
+         transform="translate(-50,-5.0000616)"
+         id="g6838">
+        <rect
+           style="opacity:1;fill:#f48fb1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6542"
+           width="239"
+           height="25"
+           x="470.5"
+           y="1016.8621" />
+        <text
+           id="text6546"
+           y="1034.5568"
+           x="529.0625"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="1034.5568"
+             x="529.0625"
+             id="tspan1742"
+             sodipodi:role="line">Nyai Sotoriyah</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="503.81348"
+           y="1035.1497"
+           id="text6550"><tspan
+             sodipodi:role="line"
+             id="tspan6548"
+             x="503.81348"
+             y="1035.1497">♀</tspan></text>
+      </g>
+      <g
+         id="g1662"
+         transform="translate(-50,145)">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1652"
+           width="239"
+           height="50"
+           x="470.5"
+           y="741.86206" />
+        <text
+           id="text1656"
+           y="759.54956"
            x="478.97461"
-           y="759.54956">Istri 1: RAy. Sitiroh</tspan></text>
-      <text
-         id="text1660"
-         y="784.54987"
-         x="478.97461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1712"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="759.54956"
+             x="478.97461"
+             id="tspan1710"
+             sodipodi:role="line">Istri 1: RAy. Sitiroh</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="478.97461"
-           y="784.54987">Mbah Wedok</tspan></text>
+           y="784.54987"
+           id="text1660"><tspan
+             y="784.54987"
+             x="478.97461"
+             id="tspan1712"
+             sodipodi:role="line">Mbah Wedok</tspan></text>
+      </g>
     </g>
     <g
        transform="translate(-50,145)"
-       id="g1674">
+       id="g1674"
+       style="filter:url(#filter1756)">
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1664"
@@ -5173,126 +5598,238 @@
            y="784.54987">Janda Mangkubumi</tspan></text>
     </g>
     <g
-       transform="translate(-50,195)"
-       id="g1686">
-      <rect
-         y="691.86206"
-         x="1070.5"
-         height="50"
-         width="239"
-         id="rect1676"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="1078.9746"
-         y="709.54956"
-         id="text1680"><tspan
-           sodipodi:role="line"
-           id="tspan1718"
+       id="g1149"
+       style="filter:url(#filter1768)">
+      <g
+         transform="translate(1150,-5.0000016)"
+         id="g6850">
+        <rect
+           y="941.86206"
+           x="170.5"
+           height="25"
+           width="239"
+           id="rect6474"
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="229.0625"
+           y="959.55676"
+           id="text6478"><tspan
+             y="959.55676"
+             x="229.0625"
+             id="tspan1774"
+             sodipodi:role="line">Kyai Sirriman (Solo)</tspan></text>
+        <text
+           id="text6482"
+           y="960.14972"
+           x="203.81348"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="960.14972"
+             x="203.81348"
+             id="tspan6480"
+             sodipodi:role="line">♂</tspan></text>
+      </g>
+      <g
+         transform="translate(1150,-5.0000016)"
+         id="g6864">
+        <rect
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6484"
+           width="239"
+           height="25"
+           x="170.5"
+           y="966.86206" />
+        <text
+           id="text6488"
+           y="984.55676"
+           x="229.0625"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="984.55676"
+             x="229.0625"
+             id="tspan1778"
+             sodipodi:role="line">Kyai Imam Puro (Ponorogo)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="203.81348"
+           y="985.14972"
+           id="text6492"><tspan
+             sodipodi:role="line"
+             id="tspan6490"
+             x="203.81348"
+             y="985.14972">♂</tspan></text>
+      </g>
+      <g
+         transform="translate(1150,-255)"
+         id="g6871">
+        <rect
+           y="1241.8621"
+           x="170.5"
+           height="25"
+           width="239"
+           id="rect6494"
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="229.0625"
+           y="1259.5568"
+           id="text6498"><tspan
+             y="1259.5568"
+             x="229.0625"
+             id="tspan1780"
+             sodipodi:role="line">Mangun Rejo (Kediri)</tspan></text>
+        <text
+           id="text6502"
+           y="1260.1497"
+           x="203.81348"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="1260.1497"
+             x="203.81348"
+             id="tspan6500"
+             sodipodi:role="line">♂</tspan></text>
+      </g>
+      <g
+         transform="translate(250,195)"
+         id="g1736">
+        <rect
+           y="691.86206"
+           x="1070.5"
+           height="50"
+           width="239"
+           id="rect1726"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="1078.9746"
-           y="709.54956">Istri 3: RAy. Sangidah/ RAy. Notoatmojo</tspan></text>
-      <text
-         id="text1684"
-         y="734.54919"
-         x="1078.9746"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1720"
+           y="709.54956"
+           id="text1730"><tspan
+             y="709.54956"
+             x="1078.9746"
+             id="tspan1738"
+             sodipodi:role="line">Istri 4: RAy. Pujoningsih 2</tspan></text>
+        <text
+           id="text1844"
+           y="734.54987"
            x="1078.9746"
-           y="734.54919">Putri Sunan Pakubuwono 5</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan1846"
+             x="1078.9746"
+             y="734.54987">binti BRAy. Mertodiningrat</tspan></text>
+      </g>
     </g>
     <g
-       id="g1698"
-       transform="translate(250,170)"
-       inkscape:transform-center-x="10.837156"
-       inkscape:transform-center-y="-1.5481651">
-      <rect
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1688"
-         width="239"
-         height="25"
-         x="770.5"
-         y="766.86206" />
-      <text
-         id="text1692"
-         y="784.55676"
-         x="829.0625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1770"
+       id="g1384"
+       style="filter:url(#filter1780)">
+      <g
+         id="g1686"
+         transform="translate(-50,195)">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1676"
+           width="239"
+           height="50"
+           x="1070.5"
+           y="691.86206" />
+        <text
+           id="text1680"
+           y="709.54956"
+           x="1078.9746"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="709.54956"
+             x="1078.9746"
+             id="tspan1718"
+             sodipodi:role="line">Istri 3: RAy. Sangidah/ RAy. Notoatmojo</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1078.9746"
+           y="734.54919"
+           id="text1684"><tspan
+             y="734.54919"
+             x="1078.9746"
+             id="tspan1720"
+             sodipodi:role="line">Putri Sunan Pakubuwono 5</tspan></text>
+      </g>
+      <g
+         inkscape:transform-center-y="-1.5481651"
+         inkscape:transform-center-x="10.837156"
+         transform="translate(250,170)"
+         id="g1698">
+        <rect
+           y="766.86206"
+           x="770.5"
+           height="25"
+           width="239"
+           id="rect1688"
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="829.0625"
-           y="784.55676">Kyai Gading</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="803.81348"
-         y="785.14972"
-         id="text1696"><tspan
-           sodipodi:role="line"
-           id="tspan1694"
-           x="803.81348"
-           y="785.14972">♂</tspan></text>
-    </g>
-    <g
-       id="g1736"
-       transform="translate(250,195)">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1726"
-         width="239"
-         height="50"
-         x="1070.5"
-         y="691.86206" />
-      <text
-         id="text1730"
-         y="709.54956"
-         x="1078.9746"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan1738"
-           x="1078.9746"
-           y="709.54956">Istri 4: RAy. Pujoningsih</tspan></text>
-    </g>
-    <g
-       inkscape:transform-center-y="-1.5481651"
-       inkscape:transform-center-x="10.837156"
-       transform="translate(250,195)"
-       id="g1760">
-      <rect
-         y="766.86206"
-         x="770.5"
-         height="25"
-         width="239"
-         id="rect1750"
-         style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="829.0625"
-         y="784.55676"
-         id="text1754"><tspan
-           sodipodi:role="line"
-           id="tspan1772"
-           x="829.0625"
-           y="784.55676">Kyai Muharror</tspan></text>
-      <text
-         id="text1758"
-         y="785.14972"
-         x="803.81348"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
+           y="784.55676"
+           id="text1692"><tspan
+             y="784.55676"
+             x="829.0625"
+             id="tspan1770"
+             sodipodi:role="line">Kyai Gading</tspan></text>
+        <text
+           id="text1696"
            y="785.14972"
            x="803.81348"
-           id="tspan1756"
-           sodipodi:role="line">♂</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="785.14972"
+             x="803.81348"
+             id="tspan1694"
+             sodipodi:role="line">♂</tspan></text>
+      </g>
+      <g
+         id="g1760"
+         transform="translate(250,195)"
+         inkscape:transform-center-x="10.837156"
+         inkscape:transform-center-y="-1.5481651">
+        <rect
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1750"
+           width="239"
+           height="25"
+           x="770.5"
+           y="766.86206" />
+        <text
+           id="text1754"
+           y="784.55676"
+           x="829.0625"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="784.55676"
+             x="829.0625"
+             id="tspan1772"
+             sodipodi:role="line">Kyai Muharror</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="803.81348"
+           y="785.14972"
+           id="text1758"><tspan
+             sodipodi:role="line"
+             id="tspan1756"
+             x="803.81348"
+             y="785.14972">♂</tspan></text>
+      </g>
     </g>
     <g
        id="g2038"
-       transform="translate(-50)">
+       transform="translate(-50,-25)"
+       style="filter:url(#filter1792)">
       <rect
          y="586.86206"
          x="170.5"
@@ -5360,7 +5897,8 @@
     </g>
     <g
        id="g2052"
-       transform="translate(-50)">
+       transform="translate(-50,-25)"
+       style="filter:url(#filter1804)">
       <rect
          y="711.86206"
          x="170.5"
@@ -5428,7 +5966,8 @@
     </g>
     <g
        id="g2066"
-       transform="translate(-50)">
+       transform="translate(-50)"
+       style="filter:url(#filter1816)">
       <rect
          style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1588"
@@ -5494,6 +6033,264 @@
            x="130.37915"
            y="904.55627">IV</tspan></text>
     </g>
+    <g
+       id="g1211"
+       style="filter:url(#filter1828)">
+      <g
+         transform="translate(250,-129.99994)"
+         id="g1236">
+        <rect
+           y="766.86206"
+           x="770.5"
+           height="25"
+           width="239"
+           id="rect1226"
+           style="opacity:1;fill:#f48fb1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="829.0625"
+           y="784.55676"
+           id="text1230"><tspan
+             y="784.55676"
+             x="829.0625"
+             id="tspan1384"
+             sodipodi:role="line">Nyai Abdul Jalal 1 (Kalioso)</tspan></text>
+        <text
+           id="text1234"
+           y="785.14972"
+           x="803.81348"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="785.14972"
+             x="803.81348"
+             id="tspan1386"
+             sodipodi:role="line">♀</tspan></text>
+      </g>
+      <g
+         id="g1334"
+         transform="translate(-50,-154.99994)">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1324"
+           width="239"
+           height="50"
+           x="1070.5"
+           y="741.86206" />
+        <text
+           id="text1328"
+           y="759.54956"
+           x="1078.9746"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="759.54956"
+             x="1078.9746"
+             id="tspan1340"
+             sodipodi:role="line">Istri 3: RAy. Mursiyyah Arif</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1078.9746"
+           y="784.54919"
+           id="text1332"><tspan
+             y="784.54919"
+             x="1078.9746"
+             id="tspan1342"
+             sodipodi:role="line">Putri Sunan Mangkurat Jawi 4</tspan></text>
+      </g>
+      <g
+         transform="translate(-50,-154.99994)"
+         id="g1085">
+        <rect
+           y="741.86206"
+           x="1070.5"
+           height="50"
+           width="239"
+           id="rect1075"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1078.9746"
+           y="759.54956"
+           id="text1079"><tspan
+             sodipodi:role="line"
+             id="tspan1077"
+             x="1078.9746"
+             y="759.54956">Istri 3: RAy. Mursiyyah Arif</tspan></text>
+        <text
+           id="text1083"
+           y="784.54919"
+           x="1078.9746"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan1081"
+             x="1078.9746"
+             y="784.54919">Putri Sunan Mangkurat Jawi 4</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1298"
+       style="filter:url(#filter1840)">
+      <g
+         transform="translate(-50,19.999998)"
+         id="g1474">
+        <rect
+           y="691.86206"
+           x="1070.5"
+           height="50"
+           width="239"
+           id="rect1464"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1078.9746"
+           y="709.54956"
+           id="text1468"><tspan
+             y="709.54956"
+             x="1078.9746"
+             id="tspan1708"
+             sodipodi:role="line">Istri 1: RAy. Mursilah Arif</tspan></text>
+        <text
+           id="text1472"
+           y="734.54919"
+           x="1078.9746"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="734.54919"
+             x="1078.9746"
+             id="tspan1496"
+             sodipodi:role="line">Putri Kajoran Putri Pangeran Purboyo 3</tspan></text>
+      </g>
+      <g
+         id="g1522"
+         transform="translate(250,-5.0000015)"
+         inkscape:transform-center-x="10.837156"
+         inkscape:transform-center-y="-1.5481651">
+        <rect
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1512"
+           width="239"
+           height="25"
+           x="770.5"
+           y="766.86206" />
+        <text
+           id="text1516"
+           y="784.55676"
+           x="829.0625"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="784.55676"
+             x="829.0625"
+             id="tspan1530"
+             sodipodi:role="line">Kyai Hasan Besari</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="803.81348"
+           y="785.14972"
+           id="text1520"><tspan
+             sodipodi:role="line"
+             id="tspan1518"
+             x="803.81348"
+             y="785.14972">♂</tspan></text>
+      </g>
+      <g
+         id="g1097"
+         transform="translate(250,44.999999)">
+        <rect
+           style="opacity:1;fill:#f48fb1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1087"
+           width="239"
+           height="25"
+           x="770.5"
+           y="766.86206" />
+        <text
+           id="text1091"
+           y="784.55676"
+           x="829.0625"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             id="tspan1125"
+             sodipodi:role="line"
+             x="829.0625"
+             y="784.55676">Nyai Abdul Syukur</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="803.81348"
+           y="785.14972"
+           id="text1095"><tspan
+             sodipodi:role="line"
+             id="tspan1093"
+             x="803.81348"
+             y="785.14972">♀</tspan></text>
+      </g>
+      <g
+         transform="translate(250,69.999999)"
+         id="g1109">
+        <rect
+           y="766.86206"
+           x="770.5"
+           height="25"
+           width="239"
+           id="rect1099"
+           style="opacity:1;fill:#f48fb1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="829.0625"
+           y="784.55676"
+           id="text1103"><tspan
+             y="784.55676"
+             x="829.0625"
+             id="tspan1101"
+             sodipodi:role="line">Nyai Hasan Ahmad</tspan></text>
+        <text
+           id="text1107"
+           y="785.14972"
+           x="803.81348"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="785.14972"
+             x="803.81348"
+             id="tspan1105"
+             sodipodi:role="line">♀</tspan></text>
+      </g>
+      <g
+         id="g1121"
+         transform="translate(250,19.999999)">
+        <rect
+           style="opacity:1;fill:#f48fb1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1111"
+           width="239"
+           height="25"
+           x="770.5"
+           y="766.86206" />
+        <text
+           id="text1115"
+           y="784.55676"
+           x="829.0625"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             id="tspan1123"
+             sodipodi:role="line"
+             x="829.0625"
+             y="784.55676">Nyai Mursinah/ Nyai Murdoko</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="803.81348"
+           y="785.14972"
+           id="text1119"><tspan
+             sodipodi:role="line"
+             id="tspan1117"
+             x="803.81348"
+             y="785.14972">♀</tspan></text>
+      </g>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5503,7 +6300,7 @@
      transform="translate(0,190)"
      sodipodi:insensitive="true">
     <g
-       transform="matrix(-1,0,0,1,380,-269.99995)"
+       transform="matrix(-1,0,0,1,380,-294.99995)"
        id="g1088">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -5528,7 +6325,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(-1,0,0,1,380,-269.99995)"
+       transform="matrix(-1,0,0,1,380,-294.99995)"
        id="g1170">
       <path
          inkscape:connector-curvature="0"
@@ -5545,7 +6342,7 @@
     </g>
     <g
        id="g1250"
-       transform="matrix(-1,0,0,1,380,-144.99994)">
+       transform="matrix(-1,0,0,1,380,-169.99994)">
       <path
          inkscape:connector-curvature="0"
          inkscape:original-d="M -50.000002,239.5 H 10"
@@ -5570,7 +6367,7 @@
     </g>
     <g
        id="g1382"
-       transform="matrix(-1,0,0,1,380,-144.99995)">
+       transform="matrix(-1,0,0,1,380,-169.99995)">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 154.50003,324.00001 v -34"
@@ -5585,7 +6382,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(-1,0,0,1,380,-20.000002)"
+       transform="matrix(-1,0,0,1,380,-45.000002)"
        id="g1482">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -5612,34 +6409,35 @@
     <path
        inkscape:connector-curvature="0"
        id="path1567"
-       d="M 719,319.50001 H 525"
+       d="M 719,294.50001 H 525"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path1569"
-       d="m 730,319.5 -15,4.5 3,-4.5 -3,-4.5 z"
+       d="m 730,294.5 -15,4.5 3,-4.5 -3,-4.5 z"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 525.50002,320 V 305"
+       d="M 525.50002,295 V 280"
        id="path1586"
        inkscape:connector-curvature="0" />
     <g
-       transform="matrix(-1,0,0,1,380,-19.999952)"
-       id="g1620">
+       transform="matrix(-1,0,0,1.4201695,380,-166.63907)"
+       id="g1620"
+       style="stroke-width:0.8391313">
       <path
          inkscape:connector-curvature="0"
          id="path1616"
          d="m 154.50003,348.99994 v -59"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8391313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          inkscape:original-d="m -49.99998,289.5 h 205"
          inkscape:path-effect="#path-effect1172"
          id="path1618"
          d="m -49.99998,289.5 h 205"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8391313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
        id="g1706"
@@ -5685,21 +6483,21 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:'Oswald, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter7267)"
        x="791.94476"
-       y="100.14037"
+       y="90.140182"
        id="text1572"><tspan
          sodipodi:role="line"
          id="tspan1574"
          x="791.94476"
-         y="100.14037">Silsilah Kyai Modjo</tspan></text>
+         y="90.140182">Silsilah Kyai Modjo</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:'Oswald, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#b71c1c;fill-opacity:1;stroke:none;filter:url(#filter7255)"
        x="791.94476"
-       y="124.81144"
+       y="114.81125"
        id="text648"><tspan
          sodipodi:role="line"
-         id="tspan650"
+         id="tspan1073"
          x="791.94476"
-         y="124.81144">Draft untuk Bahan Diskusi Internal</tspan></text>
+         y="114.81125">Draft untuk Bahan Diskusi Internal (versi Syarif)</tspan></text>
   </g>
 </svg>
