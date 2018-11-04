@@ -1,0 +1,54 @@
+♂. Raden Tumenggung Pringgakusuma I
+    ├── Anak: 1. ♀. R.Ay. Padmapringga
+    ├── Anak: 2. ♀. R.Ay. Cakradirja
+    ├── Anak: 3. ♂. Raden Tumenggung Pringgakusuma II
+    ├── Anak: 4. ♀. R.Ay. Mertawiyana
+    ├── Anak: 5. ♀. R.Ay. Reksagupita (tidak berketurunan)
+
+3. ♂. Raden Tumenggung Pringgakusuma II
+    ├── Anak: A1. ♀. R.Ay. Atmanjaya (R.Aj Ketul)
+    ├── Anak: A2. ♂. R.M. Prawirapringga (R.M. Sugiya)
+    ├── Anak: A3. ♂. R.M. Atmahudaya (R.M. Suparman)
+    ├── Anak: A4. ♀. B.R.A. Retnawinardi (R.Aj Sutijah)
+    ├── Anak: A5. ♂. R.M. Atmapringga (R.M. Pringgareja)
+    ├── Anak: A6. ♀. R.Ay Sesmintaningrum (R.Aj Sutinah)
+    ├── Anak: A7. ♀. R.Aj. Sutiyah (seda timur)
+    ├── Anak: A8. ♀. R.Aj. Susilah (seda timur)
+    ├── Anak: A9. ♀. R.Aj. Natadimedja (seda timur)
+    ├── Anak: A10. ♂. K.R.T. Pringgakusma III (R.M. Pringgawijaya)
+    ├── Anak: A11. ♀. R.Ay. Mangkarawati (R.Aj. Pringgawinata)
+    ├── Anak: A12. ♀. R.Ay. Atmadisastra (R.Aj. Pringgahatmaja)
+    ├── Anak: A13. ♀. R.Aj. Pringgadimeja (seda prawan)
+    └── Anak: A14. ♂. R.M. Prawiranetra (R.M. Pringgapura)
+
+A2. ♂. R.M. Prawirapringga (R.M. Sugiya)
+    ├── Anak: B1. ♀. R.Ngt. Pusparaharja  (Rr. Sukirah)
+    ├── Anak: B2. ♀. R.Ngt. Bahulesana (Rr. Sumirah)
+    ├── Anak: B3. ♂. R. Yasadiwirya (R. Sukari)
+    ├── Anak: B4. ♂. R. Prawiradiharja (R. Subari)
+    ├── Anak: B5. ♀. R.Ngt. Dwijaprawata (Rr. Sukaptijah)
+    ├── Anak: B6. ♀. R.Ngt. Wargasuwirya/ Tirtasemita (Rr. Sukijah)
+    ├── Anak: B7. ♂. R. Wirjasuhardja (R. Suwarjana)
+    ├── Anak: B8.  . R.A. sinangjaya
+    └── Anak: B9. ♀. R.Ngt. Martasatmaka (Rr. Suprihatini)
+
+B5. ♀. R.Ngt. Dwidjaprawata (R. Sukaptijah)
+    ├── Anak: C1. ♂. R. Sudarsana (tilar alit)
+    ├── Anak: C2. ♀. R.Ngt. Suharjiyah Sumediyuwono
+    ├── Anak: C3. ♂. R. Subono
+    ├── Anak: C4. ♂. R. Supaya  (tilar alit)
+    ├── Anak: C5. ♀. Rr. Sukaptiyah  (tilar alit)
+    ├── Anak: C6. ♀. Rr. Sumehsih (tidak berketurunan)
+    └── Anak: C7. ♂. R. Pringgasupana (tidak berketurunan)
+
+C2. ♀. R.Ngt. Suharjiyah angsal R. Sumediyuwono
+    ├── Anak: D1. ♀. R.Ngt. Riyanti Darusalam
+    ├── Anak: D2. ♀. R.Ngt. Th. Putranti, S.H.
+    ├── Anak: D3. ♀. R.Ngt. Istiyanti, B.A.
+    ├── Anak: D4. ♀. R.Ngt. Wahyu Hidayatsih (Nanun)
+    ├── Anak: D5. ♂. R. Putranto Budi Darmo Setiawan
+    ├── Anak: D6. ♀. R.Ngt. Yuwanti
+    ├── Anak: D7. ♂. R. Yuwanto Aris Parmedi
+    ├── Anak: D8. ♂. Istiyanto Budi Rohadi
+    ├── Anak: D9. ♀. Rr. Indrawati Sri Nugraheni
+    └── Anak: D10. ♀. Sunartiningsih Nurwidyastuti

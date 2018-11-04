@@ -46,8 +46,8 @@ Silsilah Purwosaputro Kakung
     ├── Anak: 2874. G1. ♂. Ibnu Subroto
     ├── Anak: 2875. G2. ♀. Sri Daljati
     ├── Anak: 2876. G3. ♂. Ibnu Subijanto
-    ├── Anak: 2877. G4. ♀. Sri Surjati
-    ├── Anak: 2878. G5. ♂. Ibnu Sutomo
+    ├── Anak: 2877. G4. ♀. Sri Surajati
+    ├── Anak: 2878. G5. ♂. Ibnu Utomo
     ├── Anak: 2879. G6. ♀. Sri Suratmi
     ├── Anak: 2880. G7. ♂. Ibnu Purwanto
     ├── Anak: 2881. G8. ♀. Sri Suro Jekti
