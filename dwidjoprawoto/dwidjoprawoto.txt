@@ -1,54 +1,182 @@
 ♂. Raden Tumenggung Pringgakusuma I
-    ├── Anak: 1. ♀. R.Ay. Padmapringga
-    ├── Anak: 2. ♀. R.Ay. Cakradirja
-    ├── Anak: 3. ♂. Raden Tumenggung Pringgakusuma II
-    ├── Anak: 4. ♀. R.Ay. Mertawiyana
-    ├── Anak: 5. ♀. R.Ay. Reksagupita (tidak berketurunan)
+│
+├── Anak: 1. ♀. R.Ay. Padmapringga
+├── Anak: 2. ♀. R.Ay. Cakradirja
+├── Anak: 3. ♂. Raden Tumenggung Pringgakusuma II
+├── Anak: 4. ♀. R.Ay. Mertawiyana
+└── Anak: 5. ♀. R.Ay. Reksagupita (tidak berketurunan)
 
 3. ♂. Raden Tumenggung Pringgakusuma II
-    ├── Anak: A1. ♀. R.Ay. Atmanjaya (R.Aj Ketul)
-    ├── Anak: A2. ♂. R.M. Prawirapringga (R.M. Sugiya)
-    ├── Anak: A3. ♂. R.M. Atmahudaya (R.M. Suparman)
-    ├── Anak: A4. ♀. B.R.A. Retnawinardi (R.Aj Sutijah)
-    ├── Anak: A5. ♂. R.M. Atmapringga (R.M. Pringgareja)
-    ├── Anak: A6. ♀. R.Ay Sesmintaningrum (R.Aj Sutinah)
-    ├── Anak: A7. ♀. R.Aj. Sutiyah (seda timur)
-    ├── Anak: A8. ♀. R.Aj. Susilah (seda timur)
-    ├── Anak: A9. ♀. R.Aj. Natadimedja (seda timur)
-    ├── Anak: A10. ♂. K.R.T. Pringgakusma III (R.M. Pringgawijaya)
-    ├── Anak: A11. ♀. R.Ay. Mangkarawati (R.Aj. Pringgawinata)
-    ├── Anak: A12. ♀. R.Ay. Atmadisastra (R.Aj. Pringgahatmaja)
-    ├── Anak: A13. ♀. R.Aj. Pringgadimeja (seda prawan)
-    └── Anak: A14. ♂. R.M. Prawiranetra (R.M. Pringgapura)
+│
+├── Anak: A1. ♀. R.Ay. Atmanjaya (R.Aj Ketul)
+├── Anak: A2. ♂. R.M. Prawirapringga (R.M. Sugiya)
+├── Anak: A3. ♂. R.M. Atmahudaya (R.M. Suparman)
+├── Anak: A4. ♀. B.R.A. Retnawinardi (R.Aj Sutijah)
+├── Anak: A5. ♂. R.M. Atmapringga (R.M. Pringgareja)
+├── Anak: A6. ♀. R.Ay Sesmintaningrum (R.Aj Sutinah)
+├── Anak: A7. ♀. R.Aj. Sutiyah (seda timur)
+├── Anak: A8. ♀. R.Aj. Susilah (seda timur)
+├── Anak: A9. ♀. R.Aj. Natadimedja (seda timur)
+├── Anak: A10. ♂. K.R.T. Pringgakusma III (R.M. Pringgawijaya)
+├── Anak: A11. ♀. R.Ay. Mangkarawati (R.Aj. Pringgawinata)
+├── Anak: A12. ♀. R.Ay. Atmadisastra (R.Aj. Pringgahatmaja)
+├── Anak: A13. ♀. R.Aj. Pringgadimeja (seda prawan)
+└── Anak: A14. ♂. R.M. Prawiranetra (R.M. Pringgapura)
 
 A2. ♂. R.M. Prawirapringga (R.M. Sugiya)
-    ├── Anak: B1. ♀. R.Ngt. Pusparaharja  (Rr. Sukirah)
-    ├── Anak: B2. ♀. R.Ngt. Bahulesana (Rr. Sumirah)
-    ├── Anak: B3. ♂. R. Yasadiwirya (R. Sukari)
-    ├── Anak: B4. ♂. R. Prawiradiharja (R. Subari)
-    ├── Anak: B5. ♀. R.Ngt. Dwijaprawata (Rr. Sukaptijah)
-    ├── Anak: B6. ♀. R.Ngt. Wargasuwirya/ Tirtasemita (Rr. Sukijah)
-    ├── Anak: B7. ♂. R. Wirjasuhardja (R. Suwarjana)
-    ├── Anak: B8.  . R.A. sinangjaya
-    └── Anak: B9. ♀. R.Ngt. Martasatmaka (Rr. Suprihatini)
+│
+├── Anak: B1. ♀. R.Ngt. Pusparaharja  (Rr. Sukirah)
+├── Anak: B2. ♀. R.Ngt. Bahulesana (Rr. Sumirah)
+├── Anak: B3. ♂. R. Yasadiwirya (R. Sukari)
+├── Anak: B4. ♂. R. Prawiradiharja (R. Subari)
+├── Anak: B5. ♀. R.Ngt. Dwijaprawata (Rr. Sukaptijah)
+├── Anak: B6. ♀. R.Ngt. Wargasuwirya/ Tirtasemita (Rr. Sukijah)
+├── Anak: B7. ♂. R. Wirjasuhardja (R. Suwarjana)
+├── Anak: B8.  . R.A. sinangjaya
+└── Anak: B9. ♀. R.Ngt. Martasatmaka (Rr. Suprihatini)
 
 B5. ♀. R.Ngt. Dwidjaprawata (R. Sukaptijah)
-    ├── Anak: C1. ♂. R. Sudarsana (tilar alit)
-    ├── Anak: C2. ♀. R.Ngt. Suharjiyah Sumediyuwono
-    ├── Anak: C3. ♂. R. Subono
-    ├── Anak: C4. ♂. R. Supaya  (tilar alit)
-    ├── Anak: C5. ♀. Rr. Sukaptiyah  (tilar alit)
-    ├── Anak: C6. ♀. Rr. Sumehsih (tidak berketurunan)
-    └── Anak: C7. ♂. R. Pringgasupana (tidak berketurunan)
+│
+├── Anak: C1. ♂. R. Sudarsana (tilar alit)
+├── Anak: C2. ♀. R.Ngt. Suharjiyah Sumediyuwono
+├── Anak: C3. ♂. R. Subono
+├── Anak: C4. ♂. R. Supaya  (tilar alit)
+├── Anak: C5. ♀. Rr. Sukaptiyah  (tilar alit)
+├── Anak: C6. ♀. Rr. Sumehsih (tidak berketurunan)
+└── Anak: C7. ♂. R. Pringgasupana (tidak berketurunan)
 
-C2. ♀. R.Ngt. Suharjiyah angsal R. Sumediyuwono
-    ├── Anak: D1. ♀. R.Ngt. Riyanti Darusalam
-    ├── Anak: D2. ♀. R.Ngt. Th. Putranti, S.H.
-    ├── Anak: D3. ♀. R.Ngt. Istiyanti, B.A.
-    ├── Anak: D4. ♀. R.Ngt. Wahyu Hidayatsih (Nanun)
-    ├── Anak: D5. ♂. R. Putranto Budi Darmo Setiawan
-    ├── Anak: D6. ♀. R.Ngt. Yuwanti
-    ├── Anak: D7. ♂. R. Yuwanto Aris Parmedi
-    ├── Anak: D8. ♂. Istiyanto Budi Rohadi
-    ├── Anak: D9. ♀. Rr. Indrawati Sri Nugraheni
-    └── Anak: D10. ♀. Sunartiningsih Nurwidyastuti
+C2. ♀. R.Ngt. Suhardiyah
+╞══ Suami: ♂ R. Sumediyuwono
+│
+├── Anak: D1. ♀. Riyanti Darusalam
+├── Anak: D2. ♀. Th. Putranti
+├── Anak: D3. ♀. Istiyanti
+├── Anak: D4. ♀. Wahyu Hidayatsih (Nanun)
+├── Anak: D5. ♂. Putranto Budi Darmo Setiawan
+├── Anak: D6. ♀. Yuwanti
+├── Anak: D7. ♂. Yuwanto Aris Parmedi
+├── Anak: D8. ♂. Istiyanto Budi Rohadi
+├── Anak: D9. ♀. Indrawati Sri Nugraheni
+└── Anak: D10. ♀. Sunartiningsih Nurwidyastuti
+
+D1. ♀. Riyanti Darusalam
+╞══ Suami: ♂ Ir. Sayidina
+│
+├── Anak: E1. ♀. Alviani Rachmi Nurwijayanti
+│   ╞══ Suami: ♂ A. Yusuf Tricahya
+│   ├── Anak: F.1. ♀ Carissa Astri Ghassani
+│   ├── Anak: F.2. ♀ Wilona Tigita Atsarina
+│   │
+│   ╘══ Suami: ♂ Huseyn Sinan Basalan
+│
+├── Anak: E2. ♂. Betanto Rachmat Nurwidiyadi
+│   ╞══ Istri: ♀ Lesti Viergiani
+│   ├── Anak: F.1. ♂ Aditya Widiyadi
+│   ├── Anak: F.2. ♀ Via Azlia
+│   └── Anak: F.3. ♂ Fikri Albari
+│
+├── Anak: E3. ♂. Deltadi Rachman Nurwijayanto
+│   ╞══ Istri: ♀ Linda Kartika Yahya
+│   ├── Anak: F.1. ♀ Aisha Prita Natanya
+│   └── Anak: F.2. ♀ Andre Marsha Renata
+│
+└── Anak: E4. ♂. Epsiarto Rizqi Nurwijayadi
+
+D2. ♀. Th. Putranti, S.H.
+╞══ Suami: ♂ R. Sudihardjo
+│
+└── Anak: E1. ♀. Marisia Ratnaningsih
+
+D3. ♀. Istiyanti, B.A.
+╞══ Suami: ♂ Letkol Drs. R. Suroso
+│
+├── Anak: E1. ♀. Retno Sawitri Candra Dewi
+│   ╘══ Suami: ♂ Ketut Sandiarta
+│
+└── Anak: E2. ♀. Tyas Wedhasari
+    ╘══ Suami: ♂ Hakiki Satrio Utomo
+
+D4. ♀. Wahyu Hidayatsih (Nanun)
+╞══ Suami: ♂ Sutrisno
+│
+├── Anak: E1. ♀. Andriyani (Aan)
+│   ╞══ Suami: ♂ Tasno (???)
+│   └── Anak: F.1. ♀ Aurellia Valda
+│
+├── Anak: E2. ♂. Bambang Susilo (???)
+│   ╘══ Istri: ♀ (???)
+│
+└── Anak: E3. ♂. (???) (dian)
+    ╘══ Istri: ♀ (???)
+
+D5. ♂. Putranto Budi Darmo Setiawan
+╞══ Istri: ♀ ...
+│
+├── Anak: E1. ♂. Budi Sulistyo Suko Ananto
+│   ╞══ Istri: ♀ (???)
+│   ├── Anak: F.1. ♂ Dan-Dan Nir Ruasji
+│   └── Anak: F.2. ♂ Jo Anom Sunjaya
+│
+├── Anak: E2. ♂. Frista Herimawan
+│   ╞══ Istri: ♀ (???)
+│   └── Anak: F.2. ♀ (???)
+│
+└── Anak: E3. ♂. Titah Hernawan
+
+D6. ♀. Yuwanti
+╞══ Suami: ♂ Bunandir Indi Ranudinata
+│
+├── Anak: E1. ♀. Avika Kusumajati
+│
+├── Anak: E2. ♀. Dicsi Mesrawati
+│   ├── Anak: F.1. ♂ Dyah Ayu Narila BAwani
+│   ├── Anak: F.2. ♂ Bimo Kimi Fahrezi
+│   │
+│   ╘══ Suami: ♂ Alvie Syahrie
+│
+└── Anak: E3. ♂. Tito Erza Laksana
+    ╞══ Istri: ♀ Wanda Saraswati
+    ├── Anak: F1. ♀. Calista Efranda Laksana
+    └── Anak: F2. ♂. Abimanyu Samudra Laksana
+    
+D7. ♂. Yuwanto Aris Parmedi
+╞══ Istri: ♀ Nunung Ismawati
+│
+├── Anak: E1. ♂. Purwanto Widi Atmoko
+│   ╞══ Istri: ♀ Mega Sari Dewi
+│   └── Anak: F.1. ♂ Arsya Malik Rayhan
+│
+├── Anak: E2. ♂. Hari Murti
+│   ╞══ Istri: ♀ Dian Eka Rahmawati
+│   └── Anak: F.1. ♂ Daffa Pradhana Harimurti
+│
+└── Anak: E3. ♂. Danar Tri Yoga
+
+D8. ♂. Istiyanto Budi Rochadi
+╞══ Istri: ♀ Wiati Dyah Hermani
+│
+└── Anak: E1. ♂. Yusuf Burhan Pratama
+
+D9. ♀. Indrawati Sri Nugraheni
+╞══ Suami: ♂ Edi Purwanto
+│
+└── Anak: E1. ♀. Drg. Adella Syvia Maharani
+
+D10. ♀. Sunartiningsih Nurwidyastuti
+╞══ Suami: ♂ Ardinal
+│
+└── Anak: E1. ♂. Farrel Grady
+
+-----
+
+Dear Mbak,
+
+Mohon periksa ejaan dan nama lengkap.
+Lalu silahkan ditambahkan nama suami/istri, berikut anak.
+
+...
+
+Nanti lanjut tahap kedua yaitu sensus.
+Lalu lanjut tahap ketiga bikin diagram silsilah.
+
+Terimakasih.

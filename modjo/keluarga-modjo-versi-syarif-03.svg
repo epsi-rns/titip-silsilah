@@ -4758,11 +4758,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70625"
-     inkscape:cx="800"
+     inkscape:zoom="0.99878833"
+     inkscape:cx="1078.3327"
      inkscape:cy="400"
      inkscape:document-units="px"
-     inkscape:current-layer="g2087"
+     inkscape:current-layer="g2121"
      showgrid="false"
      inkscape:window-width="1900"
      inkscape:window-height="981"
@@ -5326,37 +5326,6 @@
              x="803.81348"
              y="785.14972">♂</tspan></text>
       </g>
-      <g
-         id="g2087"
-         transform="translate(-50,44.999998)"
-         inkscape:transform-center-x="10.837156"
-         inkscape:transform-center-y="-1.5481651">
-        <rect
-           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect2077"
-           width="239"
-           height="25"
-           x="770.5"
-           y="766.86206" />
-        <text
-           id="text2081"
-           y="784.55676"
-           x="829.0625"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-           xml:space="preserve"><tspan
-             sodipodi:role="line"
-             id="tspan2089">Kyai Hasan Muhammad</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="803.81348"
-           y="785.14972"
-           id="text2085"><tspan
-             sodipodi:role="line"
-             id="tspan2083"
-             x="803.81348"
-             y="785.14972">♂</tspan></text>
-      </g>
     </g>
     <g
        id="g1332"
@@ -5806,7 +5775,7 @@
              sodipodi:role="line"
              id="tspan1846"
              x="1078.9746"
-             y="734.54987">binti BRAy. Mertodiningrat</tspan></text>
+             y="734.54987">putri BRAy. Mertodiningrat</tspan></text>
       </g>
     </g>
     <g
@@ -6079,7 +6048,7 @@
            sodipodi:role="line"
            id="tspan1626"
            x="229.0625"
-           y="879.55627">Pahlawan Nasional</tspan></text>
+           y="879.55627">Pahlawan</tspan></text>
       <text
          id="text1600"
          y="880.14923"
@@ -6285,8 +6254,39 @@
              y="785.14972">♂</tspan></text>
       </g>
       <g
+         inkscape:transform-center-y="-1.5481651"
+         inkscape:transform-center-x="10.837156"
+         transform="translate(250,19.999998)"
+         id="g2094">
+        <rect
+           y="766.86206"
+           x="770.5"
+           height="25"
+           width="239"
+           id="rect2083"
+           style="opacity:1;fill:#64b5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           x="829.0625"
+           y="784.55676"
+           id="text2087"><tspan
+             sodipodi:role="line"
+             id="tspan2096">Kyai Hasan Muhammad</tspan></text>
+        <text
+           id="text2092"
+           y="785.14972"
+           x="803.81348"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="785.14972"
+             x="803.81348"
+             id="tspan2090"
+             sodipodi:role="line">♂</tspan></text>
+      </g>
+      <g
          id="g1097"
-         transform="translate(250,44.999999)">
+         transform="translate(250,69.999999)">
         <rect
            style="opacity:1;fill:#f48fb1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect1087"
@@ -6316,7 +6316,7 @@
              y="785.14972">♀</tspan></text>
       </g>
       <g
-         transform="translate(250,69.999999)"
+         transform="translate(250,94.999999)"
          id="g1109">
         <rect
            y="766.86206"
@@ -6348,7 +6348,7 @@
       </g>
       <g
          id="g1121"
-         transform="translate(250,19.999999)">
+         transform="translate(250,44.999999)">
         <rect
            style="opacity:1;fill:#f48fb1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect1111"
