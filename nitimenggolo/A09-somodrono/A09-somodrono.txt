@@ -1,0 +1,13 @@
+. A9 ♂ Somodrono
+    ├── Anak: 33 B1 ♀ Setrodrono (+B8)
+    ├── Anak: 34 B2 ♂ Sutodrono
+    └── Anak: 35 B3 ♂ Kromodrono
+
+. 33 B1 ♀ Setrodrono (lihat B8)
+
+. 34 B2 ♂ Sutodrono
+    └── Anak: 107 C1 ♂ Tirtosemito
+
+. 35 B3 ♂ Kromodrono
+    └── Anak: 108 C1 ♀ Somowidjojo (16.C5)
+

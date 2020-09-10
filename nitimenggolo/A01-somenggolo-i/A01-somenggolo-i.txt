@@ -1,0 +1,52 @@
+. A1 ♀ Somenggolo I
+    ├── Anak: 1 B1 ♀ Sutomengggolo
+    ├── Anak: 2 B2 ♀ Setrodongso
+    ├── Anak: 3 B3 ♀ Abd. Kadir (+12.B2)
+    ├── Anak: 4 B4 ♂ Trunomenggolo
+    ├── Anak: 5 B5 ♀ Ngarpijah
+    ├── Anak: 6 B6 ♂ Tjokoromenggolo
+    ├── Anak: 7 B7 ♀ Somenggolo II
+    ├── Anak: 8 B8 ♂ Setrodono
+    ├── Anak: 9 B9 ♀ Wiromenggolo
+    └── Anak: 10 B10 ♂ Kasan Munodo
+
+. 1 B1 ♀ Sutomengggolo
+    └── Anak: 1 C1 ♀ Surowidjojo
+
+. 2 B2 ♀ Setrodongso
+
+. 3 B3 ♀ Abd. Kadir (+12.B2)
+    └── Anak: 2 C1 ♂ H. Madnur (di Bulu)
+
+. 4 B4 ♂ Trunomenggolo
+    └── Anak: 3 C1 ♀ H. Maelani
+
+. 5 B5 ♀ Ngarpijah
+    ├── Anak: 4 C1 ♀ Kasan Iman
+    ├── Anak: 5 C2 ♀ Kamarijah
+    ├── Anak: 6 C3 ♂ Nitidimedjo
+    ├── Anak: 7 C4 ♀ Surowidjojo (di Pasar Kliwon)
+    └── Anak: 8 C5 ♂ H. Madnur (+2.D2, +115.C7)
+
+. 6 B6 ♂ Tjokoromenggolo
+    ├── Anak:  9 C1 ♂ Tjokrodipo
+    ├── Anak: 10 C2 ♀ Nitiwidjojo
+    └── Anak: 11 C3 ♂ Djajeng
+
+. 7 B7 ♀ Somenggolo II
+    ├── Anak: 12 C1 ♂ Somodirjo
+    ├── Anak: 13 C2 ♀ Murtolo
+    ├── Anak: 14 C3 ♀ Dal
+    ├── Anak: 15 C4 ♂ Somodongso (+18.C1)
+    ├── Anak: 16 C5 ♂ Somowidjojo (+108.C1)
+    └── Anak: 17 C6 ♂ Mertomenggolo
+ 
+. 8 B8 ♂ Setrodono
+    └── Anak: 18 C1 ♀ Somodongso (+15.C4)
+
+. 9 B9 ♀ Wiromenggolo
+    └── Anak: 19 C1 ♀ Moh. Tohir (di Tegalsari)
+
+. 10 B10 ♂ Kasan Munodo
+    ├── Anak: 20 C1 ♂ H. Ismangil (+44.C4)
+    └── Anak: 21 C2 ♂ Sapawi

@@ -1,0 +1,55 @@
+. A3 ♂ Abdul Djalal I
+    ├── Anak: 18 B1 ♀ Nur Salim (tidak berketurunan)
+    ├── Anak: 19 B2 ♂ Abdul Djalal II (+28.B4)
+    ├── Anak: 20 B3 ♂ Minhat (+22.C1)
+    ├── Anak: 21 B4 ♀ Moh. Tohir (di Logantung Delanggu)
+    ├── Anak: 22 B5 ♂ Djalaliman (di Kayuapak Bekonan) (+75.C1)
+    ├── Anak: 23 B6 ♀ Reksowadi
+    └── Anak: 24 B7 ♂ Iman Redjo
+
+. 18 B1 ♀ Nur Salim (tidak berketurunan)
+
+. 19 B2 ♂ Abdul Djalal II (+28.B4)
+    │
+    ╞══ Istri 1: ♀ Putri Wiropati
+    ├── Anak: 50 C1 ♀ Kliwon Wiroprodjo (+27.C3)
+    ├── Anak: 51 C2 ♂ Abdul Djalal III (Siriman)
+    ├── Anak: 52 C3 ♂ Martoredjo (Demang Newung)
+    ├── Anak: 53 C4 ♀ H. Anwar (+38.C2)
+    ├── Anak: 54 C5 ♀ Moh. Irsad (+59.C4)
+    │
+    ╞══ Istri 2: ♀ Rondo
+    └── Anak: 55 C6 ♂ H. Saleh (di Bulu)
+    
+. 20 B3 ♂ Minhat (+22.C1)
+    ├── Anak: 56 C1 ♀ Abd. Rahman
+    ├── Anak: 57 C2 ♀ Mustahal II
+    ├── Anak: 58 C3 ♀ Iman Fakih
+    ├── Anak: 59 C4 ♂ Moh. Irsad
+    ├── Anak: 60 C5 ♀ H. Sarbini
+    └── Anak: 61 C6 ♂ Moh. Ilham (di Kartosuro)
+
+. 21 B4 ♀ Moh. Tohir (di Logantung Delanggu)
+    ├── Anak: 62 C1 ♀ Kliwon Wiroprodjo (+27.C3)
+    └── Anak: 63 C2 ♀ Abd. Madjid (di Lo Gantung)
+
+. 22 B5 ♂ Djalaliman (di Kayuapak Bekonan) (+75.C1)
+    └── Anak: 64 C1 ♀ Zakarija II
+
+. 23 B6 ♀ Reksowadi
+    ├── Anak: 65 C1 ♂ Somoberdoto (+206.D1)
+    ├── Anak: 66 C2 ♂ Atmodimejo (Ronggo Tempel) (+199.D3)
+    └── Anak: 67 C3 ♂ Sutomarmo
+
+. 24 B7 ♂ Iman Redjo 
+    │
+    ╞══ Istri 1: ♀ (79.C2)
+    ├── Anak: 68 C1 ♀ Martowirjo
+    │
+    ╞══ Istri 2: ♀ 
+    ├── Anak: 69 C2 ♀ H. Ngumar
+    ├── Anak: 70 C3 ♀ Asraniman
+    ├── Anak: 71 C4 ♀ Kasan Redjo
+    ├── Anak: 72 C5 ♂ Kasan Anom
+    ├── Anak: 73 C6 ♂ Armoredjo
+    └── Anak: 74 C7 ♀ Wongsoredjo

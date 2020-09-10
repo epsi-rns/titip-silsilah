@@ -1,0 +1,32 @@
+. A5 ♀ Resosetiko (Wongsokartiko)
+    └── Anak: 29 B1 ♂ Martowiguno
+
+. 29 B1 ♂ Ng. Martowiguno
+    │
+    ╞══ Istri 1: ♀ 
+    ├── Anak: 82 C1 ♂ Martodipuro (+104.C1)
+    ├── Anak: 83 C2 ♀ Surodipuro
+    ├── Anak: 84 C3 ♀ Martoredjo (Demang Newung) (+52.C3)
+    ├── Anak: 85 C4 ♀ Martodimedjo (di Kauman Sememen)
+    │
+    ╞══ Istri 2: ♀     
+    ├── Anak: 86 C5 ♂ Ronggo (di Bringin)
+    ├── Anak: 87 C6 ♂ Martopuspito (TB)
+    ├── Anak: 91 C10 ♂ Siswohudoro (TB)
+    ├── Anak: 92 C11 ♀ Honggodiprodjo (Sangidah)
+    ├── Anak: 95 C14 ♀ Gondodiwati (Istri BKPH Hadi Surjo)
+    │
+    ╞══ Istri 3: ♀     
+    ├── Anak: 88 C7 ♀ H. Jahjo (+29.C5)
+    │
+    ╞══ Istri 4: ♀     
+    ├── Anak: 89 C8 ♂ Tirtodimedjo
+    ├── Anak: 90 C9 ♂ Hardjowiguno (Mardjono) (+124.C2)
+    │
+    ╞══ Istri 5: ♀     
+    ├── Anak: 93 C12 ♀ Tirtodinomo (Rubingah)
+    │
+    ╞══ Istri 6: ♀     
+    ├── Anak: 94 C13 ♂ Partotenojo (Samingun)
+    ├── Anak: 96 C15 ♂ Ronggo Dipowiguno (TB)
+    └── Anak: 97 C17 ♀ Marto... (Samingah) di Pedan (TB)

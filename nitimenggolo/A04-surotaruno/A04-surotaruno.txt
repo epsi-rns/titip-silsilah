@@ -1,0 +1,24 @@
+. A4 ♀ Surotaruno
+    ├── Anak: 25 B1 ♂ Ngali Mohamad
+    ├── Anak: 26 B2 ♀ Madarun II
+    ├── Anak: 27 B3 ♀ Mustahal I (+16.B6)
+    └── Anak: 28 B4 ♀ Kolipah (+19.B2 Abd. Djalal II)
+
+. 25 B1 ♂ Ngali Mohamad
+    ├── Anak: 75 C1 ♀ Djalaliman (+22.B5)
+    ├── Anak: 76 C2 ♀ H. Asror (+80.C3)
+    └── Anak: 77 C3 ♂ Donowidjojo
+
+. 26 B2 ♀ Madarun II
+    ├── Anak: 78 C1 ♂ H. Djohar (+98.C1)
+    ├── Anak: 79 C2 ♀ Iman Redjo (+24.B7)
+    └── Anak: 80 C3 ♂ H. Asror (+76.C2)
+
+. 27 B3 ♀ Mustahal I (+16.B6)
+
+. 28 B4 ♀ Kolipah (+19.B2 Abd. Djalal II)
+    │
+    ╞══ Suami 1: ♂ 
+    ├── Anak: 81 C1 ♀ Abd Rahman (+99.C2)
+    │
+    ╘══ Suami 2: ♂ Abdul Djalal II (+19.B2)

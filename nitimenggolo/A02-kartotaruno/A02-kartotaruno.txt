@@ -1,0 +1,55 @@
+. A2 ♀ Kartotaruno
+╘══ Suami: ♂ Kartotaruno
+    ├── Anak: 11 B1 ♂ Abu Bakar
+    ├── Anak: 12 B2 ♂ Abd. kadir (+3.B3)
+    ├── Anak: 13 B3 ♂ H. Moch Qorib (Murtodjo)
+    ├── Anak: 14 B4 ♀ Surodrono
+    ├── Anak: 15 B5 ♂ Zakarija I (di Pabelan Magelang)
+    ├── Anak: 16 B6 ♂ Mustahal I (+27.B3)
+    └── Anak: 17 B7 ♂ Abdul Rahman
+
+. 11 B1 ♂ Abu Bakar
+    ├── Anak: 22 C1 ♀ Minhat (+20.B3)
+    ├── Anak: 23 C2 ♀ Djati Salam (Iman Dawud)
+    └── Anak: 24 C3 ♀ Mansur (Muchjidin)
+
+. 12 B2 ♂ Abd. kadir (+3.B3)
+
+. 13 B3 ♂ H. Moch Qorib (Murtodjo)
+    │
+    ╞══ Istri 1: ♀ Putri Djobin (di Butuh)
+    ├── Anak: 25 C1 ♂ Kertojudo     (+39.C3)
+    ├── Anak: 26 C2 ♀ Honggodipo
+    ├── Anak: 27 C3 ♂ Kliwon Wiroprodjo
+    ├── Anak: 28 C4 ♂ Ketib Semeni Yogyakarta
+    ├── Anak: 29 C5 ♂ H. Jahjo
+    ├── Anak: 30 C6 ♀ Kasan Mohammad
+    ├── Anak: 31 C7 ♀ Mangun Redjo (Mantu Kijai Modjo)
+    │
+    ╞══ Istri 2: ♀ Putri Setjopawiro
+    ├── Anak: 32 C8 ♀ Iman Radji
+    └── Anak: 33 C9 ♂ Mohamad (Moh)
+
+. 14 B4 ♀ Surodrono
+    ├── Anak: 34 C1 ♂ Fekih Brahim  (+40.C4)
+    ├── Anak: 35 C2 ♂ Madning
+    └── Anak: 36 C3 ♂ Iman Sari
+
+. 15 B5 ♂ Zakarija I (di Pabelan Magelang)
+    ├── Anak: 37 C1 ♂ Zakarija II   (+64.C1)
+    ├── Anak: 38 C2 ♂ H. Anwar      (+53.C4)
+    ├── Anak: 39 C3 ♀ Kertojudo     (+25.C1)
+    └── Anak: 40 C4 ♀ Fekih Ibrahim (+24.C1)
+
+. 16 B6 ♂ Mustahal I (+27.B3)
+    ├── Anak: 41 C1 ♂ Mustahal II   (+57.C2)
+    ├── Anak: 42 C2 ♂ H. Iljas
+    ├── Anak: 43 C3 ♂ H. Ropingi    (+101.C2)
+    └── Anak: 44 C4 ♀ H. Ismangil   (+20.C1)
+
+. 17 B7 ♂ Abdul Rahman
+    ├── Anak: 45 C1 ♂ H. Madnur
+    ├── Anak: 46 C2 ♀ Abd. Djalil
+    ├── Anak: 47 C3 ♀ H. Djaet (Istri dari adiknya Kijai Modjo)
+    ├── Anak: 48 C4 ♂ H. Turki (Pengulu Landrad Salatiga)
+    └── Anak: 49 C5 ♀ H. Sarip (Djid)

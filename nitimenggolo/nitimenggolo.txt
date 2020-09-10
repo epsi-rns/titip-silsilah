@@ -19,7 +19,7 @@
 . A1 ♂ Somenggolo I
     ├── Anak: 1 B1 ♀ Sutomengggolo
     ├── Anak: 2 B2 ♀ Setrodongso
-    ├── Anak: 3 B3 ♀ Abd. Kadir (12 B2)
+    ├── Anak: 3 B3 ♀ Abd. Kadir (+12.B2)
     ├── Anak: 4 B4 ♂ Trunomenggolo
     ├── Anak: 5 B5 ♀ Ngarpijah
     ├── Anak: 6 B6 ♂ Tjokoromenggolo
@@ -31,33 +31,33 @@
 . A2 ♀ Kartotaruno
 ╘══ Suami: ♂ Kartotaruno
     ├── Anak: 11 B1 ♂ Abu Bakar
-    ├── Anak: 12 B2 ♂ Abdulkadir
+    ├── Anak: 12 B2 ♂ Abd. kadir (+3.B3)
     ├── Anak: 13 B3 ♂ H. Moch Qorib (Murtodjo)
     ├── Anak: 14 B4 ♀ Surodrono
-    ├── Anak: 15 B5 ♂ Zakarija I  (Zakarija I di Pabelan)
-    ├── Anak: 16 B6 ♂ Mustahal I
+    ├── Anak: 15 B5 ♂ Zakarija I (di Pabelan Magelang)
+    ├── Anak: 16 B6 ♂ Mustahal I (+27.B3)
     └── Anak: 17 B7 ♂ Abdul Rahman
 
 . A3 ♂ Abdul Djalal I
     ├── Anak: 18 B1 ♀ Nur Salim (tidak berketurunan)
-    ├── Anak: 19 B2 ♂ Abdul Djalal II (28 B4)
-    ├── Anak: 20 B3 ♂ Minhat (22 C1)
+    ├── Anak: 19 B2 ♂ Abdul Djalal II (+28.B4)
+    ├── Anak: 20 B3 ♂ Minhat (+22.C1)
     ├── Anak: 21 B4 ♀ Moh. Tohir (di Logantung Delanggu)
-    ├── Anak: 22 B5 ♂ Djalaliman (di Kayuapak Bekonan)
+    ├── Anak: 22 B5 ♂ Djalaliman (di Kayuapak Bekonan) (+75.C1)
     ├── Anak: 23 B6 ♀ Reksowadi
     └── Anak: 24 B7 ♂ Iman Redjo
 
 . A4 ♀ Surotaruno
     ├── Anak: 25 B1 ♂ Ngali Mohamad
     ├── Anak: 26 B2 ♀ Madarun II
-    ├── Anak: 27 B3 ♀ Mustahal I (16 B6)
-    └── Anak: 28 B4 ♀ Kolipah (19 B2 Abdul Jalal)
+    ├── Anak: 27 B3 ♀ Mustahal I (+16.B6)
+    └── Anak: 28 B4 ♀ Kolipah (+19.B2 Abd. Djalal II)
 
 . A5 ♀ Resosetiko (Wongsokartiko)
     └── Anak: 29 B1 ♂ Martowiguno
 
 . A6 ♂ Ismangil
-    ├── Anak: 30 B1 ♂ H. Maelani
+    ├── Anak: 30 B1 ♂ H. Maelani (+3.C1)
     └── Anak: 31 B2 ♂ Asnawi
 
 . A7 ♂ Murjadi
@@ -82,8 +82,8 @@
     │
     ╞══ Istri 3: ♀ 
     ├── Anak: 40 B5 ♂ Kasan Anom
-    ├── Anak: 41 B6 ♂ H. Sis (12 D1)
-    ├── Anak: 42 B7 ♂ H. Muhtar
+    ├── Anak: 41 B6 ♂ H. Sis (+12.D1)
+    ├── Anak: 42 B7 ♂ H. Muhtar (di Pakualaman Yogya)
     ├── Anak: 43 B8 ♀ H. Maemunah
     │
     ╞══ Istri 4: ♀ 

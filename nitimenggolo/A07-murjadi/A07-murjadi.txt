@@ -1,0 +1,7 @@
+. A7 ♂ Murjadi
+    └── Anak: 32 B1 ♂ Martowidjojo
+
+. 32 B1 ♂ Martowidjojo
+    ├── Anak: 104 C1 ♀ Martodipuro (+82.C1)
+    ├── Anak: 105 C2 ♂ Puspowidjojo
+    └── Anak: 106 C3 ♂ Kromoredjo

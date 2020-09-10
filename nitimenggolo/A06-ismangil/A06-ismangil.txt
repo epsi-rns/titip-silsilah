@@ -1,0 +1,20 @@
+. A6 ♂ Ismangil
+    ├── Anak: 30 B1 ♂ H. Maelani (+3.C1)
+    └── Anak: 31 B2 ♂ Asnawi
+
+. 30 B1 ♂ H. Maelani (+3.C1)
+    ├── Anak: 98 C1 ♀ H. Djohar (+78.C1)
+    └── Anak: 99 C2 ♂ H. Abd. Rahman (+81.C1)
+
+. 31 B2 ♂ Asnawi
+    │
+    ╞══ Istri 1: ♀ Putri Djaenal Ngabidin
+    ├── Anak: 100 C1 ♀ Abd. Djalal III (+51.C2)
+    │
+    ╞══ Istri 2: ♀ dari ...
+    ├── Anak: 101 C2 ♀ H. Ropingi (+43.C3)
+    ├── Anak: 102 C3 ♀ H. Muso    (+114.C6)
+    │
+    ╞══ Istri 3: ♀ dari Kalioso
+    └── Anak: 103 C4 ♂ Abd. Samad (+261.D4: Istri II)
+

@@ -1,0 +1,82 @@
+. A10 ♂ Khamdani
+    │
+    ╞══ Istri 1: ♀ 
+    ├── Anak: 36 B1 ♂ Gunawi
+    │
+    ╞══ Istri 2: ♀ 
+    ├── Anak: 37 B2 ♂ Moh. Khamid
+    ├── Anak: 38 B3 ♂ Gunawan
+    ├── Anak: 39 B4 ♂ Ibrahim
+    │
+    ╞══ Istri 3: ♀ 
+    ├── Anak: 40 B5 ♂ Kasan Anom
+    ├── Anak: 41 B6 ♂ H. Sis (+12.D1)
+    ├── Anak: 42 B7 ♂ H. Muhtar
+    ├── Anak: 43 B8 ♀ H. Maemunah
+    │
+    ╞══ Istri 4: ♀ 
+    ├── Anak: 44 B9 ♀ Sastrowidjojo
+    ├── Anak: 45 B10 ♀ H. Iskak
+    └── Anak: 46 B11 ♂ Kasan Sengodjo
+
+. 36 B1 ♂ Gunawi
+    ├── Anak: 109 C1 ♂ Ronodimedjo
+    ├── Anak: 110 C2 ♂ Moh. Belawi (+120.C2)
+    ├── Anak: 111 C3 ♀ H. Ngali
+    ├── Anak: 112 C4 ♂ H. Ismangil
+    ├── Anak: 113 C5 ♀ Abd. Somad
+    ├── Anak: 114 C6 ♂ H. Muso (+102.C3)
+    ├── Anak: 115 C7 ♀ H. Madnur (+8.C5)
+    └── Anak: 116 C8 ♀ Abd. Goni
+
+. 37 B2 ♂ Moh. Khamid
+    └── Anak: 117 C1 ♀ Setjodikromo
+
+. 38 B3 ♂ Gunawan
+    └── Anak: 118 C1 ♂ Ma'ruf (di Jawa Timur)
+
+. 39 B4 ♂ Ibrahim
+    ├── Anak: 119 C1 ♂ Moh. Irsad
+    ├── Anak: 120 C2 ♀ Belawi
+    ├── Anak: 121 C3 ♂ Abd. Rahman
+    └── Anak: 122 C4 ♀ Munawar
+
+. 40 B5 ♂ Kasan Anom
+    ├── Anak: 123 C1 ♂ Demang Resomuhardjo
+    ├── Anak: 124 C2 ♀ Hardjowiguno (+90.C9)
+    └── Anak: 125 C3 ♂ Hardjodinomo
+
+. 41 B6 ♂ H. Sis (+12.D1)
+    ├── Anak: 126 C1 ♂ Kasan Asngad
+    ├── Anak: 127 C2 ♂ Kartodinomo (+137.C2)
+    ├── Anak: 128 C3 ♀ Ma'ruf (+268.D4)
+    ├── Anak: 129 C4 ♀ H. Salmah (Imam Ma'nawi) (+41.E1)
+    ├── Anak: 130 C5 ♂ Abu Sadjad (TB)
+    └── Anak: 131 C6 ♂ H. Surjan
+
+. 42 B7 ♂ H. Muhtar
+    ├── Anak: 132 C1 ♂ Mustopo TB
+    ├── Anak: 133 C2 ♀ Abd. Kadir
+    ├── Anak: 134 C3 ♂ H. Sopingi (Pengulu Pakualaman Yogya)
+    └── Anak: 135 C4 ♀ H. Idris
+
+. 43 B8 ♀ H. Maemunah
+    ├── Anak: 136 C1 ♀ Maemunah (TB)
+    ├── Anak: 137 C2 ♀ Kartodinomo (H. Afandi) (+127.C2)
+    └── Anak: 138 C3 ♂ H. Insan (+42.E2)
+
+. 44 B9 ♀ Sastrowidjojo
+    ├── Anak: 139 C1 ♂ Singoredjo
+    ├── Anak: 140 C2 ♀ Mentodrono
+    ├── Anak: 141 C3 ♂ Prawirodimedjo
+    ├── Anak: 142 C4 ♂ Imanredjo
+    ├── Anak: 143 C5 ♂ Djojoprajitno
+    └── Anak: 144 C6 ♀ Ronggo Djojosetiko
+
+. 45 B10 ♀ H. Iskak
+    ├── Anak: 145 C1 ♀ Abd. Rahman
+    ├── Anak: 146 C2 ♀ Kasan Mustari
+    └── Anak: 147 C3 ♂ Martokarijo
+
+. 46 B11 ♂ Kasan Sengodjo
+    └── Anak: 148 C1 ♂ 
