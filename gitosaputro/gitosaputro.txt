@@ -5,7 +5,7 @@
 │   ╞══ Istri: ♀ Sukamti
 │   │
 │   ├── Anak: 2046. G1. ♀ Sri Sumadji
-│   ├── Anak  2047. G1. : ♂ KPH. H. Djoko Budihardjo, SH
+│   ├── Anak: 2047. G1. ♂ KPH. H. Djoko Budihardjo, SH
 │   ├── Anak: 2048. G1. ♂ Djoko Pudjiarjo, Bc.Hk.
 │   ├── Anak: 2049. G1. ♀ Ir. Sri Sugiarti
 │   ├── Anak: 2050. G1. ♀ Sri Wahyu Hidayati (Atum), BSc. 
@@ -39,7 +39,7 @@
 │   ╞══ Suami: . 1520. F4. ♂ R. Yusuf Purwosaputro
 │   │
 │   ├── Anak: 2065. G1. ♂ Ir. H. Sayidina P.S.
-│   ├── Anak: 2066. G2. ♂♀ Dra. Hj. Darmastuti
+│   ├── Anak: 2066. G2. ♀ Dra. Hj. Darmastuti
 │   ├── Anak: 2067. G3. ♀ Dra. Sri Koestati
 │   ├── Anak: 2068. G4. ♀ Dra. Minuk Sri Respati
 │   ├── Anak: 2069. G5. ♂ Drs. Putranto Bait Sadali, SE. MT
