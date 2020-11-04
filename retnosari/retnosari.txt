@@ -1,17 +1,22 @@
-Silsilah Retnosari
+Silsilah Keluarga RNgt Retnosari
 
 » ♂ Kanjeng Kyai Mertoloyo
 ~ Pangulu Ageng Kraton Surakarto Hadiningrat
+~ Sumare Ing Pajang Makamhaji
 
 » ♂ Kanjeng Kyai Diponingrat
 ~ Pangulu Ageng Kraton Surakarto Hadiningrat
+~ Sumare Ing Makamhaji Pajang
 
 » ♂ Imam Belawi I
+~ Perdikan Pengging
+~ Sumare Pengging
 
-» ♀ R.Ngt Retnosari - BRMH Tondonagoro
+» ♀ R.Ngt Retnosari + BRMH Tondonagoro
 ~ bin Imam Belawi I
+~ Sumare Nggulon
 
-» ♀ R.Ay Suwarni - Gitosaputran
+» ♀ R.Ay Suwarni + Gitosaputro
 ~ bin BRMH Tondonagoro
 
 Sumber: Bagan di kamar Papa.
@@ -32,3 +37,141 @@ Silsilah Tondonegaran
 
 Sumber: rodovid.org
 Catatan: sumber belum tentu benar.
+
+
+-- -- --
+
+. ♀ R.Ngt Retnosari
+│
+╞══ Suami: ♂ BRMH Tondonagoro
+├── Anak: ♀ R.Ay Suwarni
+├── Anak: ♂ R.M. P. Nandar Waneng Atmojo
+├── Anak: ♂ R.M. Sudono Tondosaputro
+└── Anak: ♀ R.Ay Sriyati
+
+-- -- --
+
+. ♀ R.Ay Suwarni
+│
+╞══ Suami: ♂ Gitosaputro
+│
+├── Anak: ♂ R.M. Djoko Daulat Mangkusaputro 
+│   ╞══ Istri: ♀ Sukamti
+│   │
+│   ├── Anak: ♀ Sri Sumadji Yuhono
+│   ├── Anak: ♂ Djoko Budihardjo, SH
+│   ├── Anak: ♂ Djoko Pudjiarjo, Bc.Hk.
+│   ├── Anak: ♀ Ir. Sri Sugiarti
+│   ├── Anak: ♀ Sri Wahyu Hidayati (Atum), BSc. 
+│   └── Anak: ♂ Drs. H. Djoko Sidik Pramono
+│
+├── Anak: ♂ R.M. Djoko Juwono Dwidjo Juwono 
+│   │
+│   ╞══ Istri: ♀ Sri Rabidjah│   │
+│   ├── Anak: Sri Kodratinah + Sudibyo
+│   ├── Anak: Sri Noerini + Oto A.S. Brotosunaryo
+│   ├── Anak: Ir. H. Soeryohantoro
+│   ├── Anak: Sri Hastuti, Bc.Hk.
+│   │
+│   ╞══ Istri: ♀ Sutarti
+│   └── Anak: Dra. Endang Yuwananti
+│
+├── Anak: ♂ R.M. Djokowalujo
+│   ╞══ Istri: ♀ Soemarmi
+│   │
+│   ├── Anak: ♂ Djoko Purwono 
+│   ├── Anak: ♀ Siti Widijati + Drs. Herman Sudirman 
+│   ├── Anak: ♀ Siti Purwati Darozati + Ir. Djoko Santoso
+│   ├── Anak: ♂ Drs. Ec. H. Djoko Purwanto
+│   ├── Anak: ♀ Dra. Siti Sri Wahyuni 
+│   ├── Anak: ♀ Dra. Siti Widayati Utami
+│   ├── Anak: ♀ Siti Hariyanti Rejeki. (tidak berketurunan)
+│   ├── Anak: ♂ Ir. Djoko Sumartono Prabowo
+│   └── Anak: ♂ Djoko Tjahyono Saputro
+│
+├── Anak: ♀ R.Ay. Siti Redjeki
+│   ╞══ Suami: ♂ R. Yusuf Purwosaputro
+│   │
+│   ├── Anak: ♂ Ir. H. Sayidina P.S.
+│   ├── Anak: ♀ Dra. Hj. Darmastuti + Ir. Soesanto 
+│   ├── Anak: ♀ Dra. Sri Koestati + Drs. D. Parman 
+│   ├── Anak: ♀ Dra. Minuk Sri Respati + Sukamto
+│   ├── Anak: ♂ Drs. Putranto Bait Sadali, SE. MT
+│   └── Anak: ♂ DR. MAF Ir. Asmoro Fajri Tritoto
+│   
+└── Anak: ♀ R.Ay. Siti Lestari (tidak berketurunan) (dua anak angkat)
+    ╘══ Suami: ♀ KRT Ponodiningrat
+
+
+-- -- --
+
+. ♂ R.M. P. Nandar Waneng Atmojo
+│
+╞══ Istri: ♀ R.Ay. Retno Harsiah
+│
+└── Anak: ♂ R.M. Sutandyo Cokro Siswanto
+    ╞══ Istri: ♀ ???
+    │
+    ├── Anak: ♀ R.Ay. Hattantinah Taufik
+    ├── Anak: ♀ R.Ay. Kartini Hermanus
+    ├── Anak: ♀ R.Ay. Retnaningsih
+    ├── Anak: ♂ R.M. Bambang Sutejo
+    └── Anak: ♀ R.Ay. Sri Rejeki
+
+-- -- --
+
+. ♂ R.M. Sudono Tondosaputro
+│
+╞══ Istri: ♀ ??
+│
+├── Anak: ♂ R.M. Suyoto Tondosaputro
+│   ├── Anak: ♂ Eko Darko Atmojo
+│   └── Anak: ♀ Sudarti
+│
+├── Anak: ♂ R.M. Kusno Tondosaputro
+│   ├── Anak: ♂ Sarono
+│   ├── Anak: ♂ Yudoyono
+│   ├── Anak: ♀ Sri Kusumaningsih Sumanto
+│   └── Anak: ♀ Sri Kusumastuti
+│
+└── Anak: ♂ R.M. Sugiharto Tondosaputro
+    ├── Anak: ♀ Ny Sendang Nurastuti Rustamaji
+    ├── Anak: ♀ Eni Cahyani Suminaredi Agus S.
+    ├── Anak: ♂ Utomo Budisatrio
+    ├── Anak: ♂ Prih Wardoyo Adikarso
+    ├── Anak: ♂ Bambang Mahanani, SH
+    ├── Anak: ♀ Dra Wahyu Sri Ambararum
+    ├── Anak: ? Prasetyaningtias Marsudi Raharjo
+    ├── Anak: ♀ Sulistyowati W.S.
+    └── Anak: ♀ Aryati Sekarasih
+
+-- -- --
+
+. ♀ R.Ay Sriyati
+│
+╞══ Suami: ♂ R.M. P Patmohasmoro
+│
+├── Anak: ♀ R.Ay. Parmanti Sutandyo
+│   ├── Anak: ♀ R.Ay. Hattantinah Taufik
+│   ├── Anak: ♀ R.Ay. Kartini Hermanus
+│   ├── Anak: ♀ R.Ay. Retnaningsih
+│   ├── Anak: ♂ R.M. Bambang Sutejo
+│   └── Anak: ♀ R.Ay. Sri Rejeki
+│
+├── Anak: ♀ R.Ay. Parmantinah Suyatmo
+│   ├── Anak: ♂ R.M. Jarod Subroto
+│   ├── Anak: ♂ R.M. Hadipurnomo
+│   ├── Anak: ♀ R.Ay. Retno Rahayu Sukrohadi
+│   ├── Anak: ♀ R.Ay. Esti Fahastati Nurhadi Utomo
+│   └── Anak: ♀ R.Ay. Esti Wahyuni Kusbandrio
+│
+└── Anak: ♀ R.Ay. Parmantini Hadmando
+    ├── Anak: ♀ R.Ay. Sri Bernati Abimanyu
+    ├── Anak: ♂ R.M. Hattantono
+    ├── Anak: ♀ R.Ay. Hattantikah
+    ├── Anak: ♂ R.M. Hattantomo
+    ├── Anak: ♀ R.Ay. Hattantimah
+    ├── Anak: ♀ R.Ay. Hattantiyah
+    ├── Anak: ♀ R.Ay. Hattantilah
+    ├── Anak: ♀ R.Ay. Hattantirah
+    └── Anak: ♂ R.M. Hattantoro
