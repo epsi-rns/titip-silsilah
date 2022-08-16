@@ -1,0 +1,35 @@
+. 16 B6 ♂ Mustahal I (+27.B3)
+    ├── Anak: 41 C1 ♂ Mustahal II   (+57.C2)
+    ├── Anak: 42 C2 ♂ H. Iljas
+    ├── Anak: 43 C3 ♂ H. Ropingi    (+101.C2)
+    └── Anak: 44 C4 ♀ H. Ismangil   (+20.C1)
+
+. 41 C1 ♂ Mustahal II   (+57.C2)
+    ├── Anak: 156 D1 ♀ Wirjodikromo
+    ├── Anak: 157 D2 ♀ Demang Tjengklik (Resodimedjo. Kasan Besari) (+198.D2)
+    ├── Anak: 158 D3 ♀ Abdul Djalal IV (lihat 182.D1)
+    ├── Anak: 159 D4 ♀ H. Kusen (+163.D1)
+    └── Anak: 160 D5 ♀ Nawawi (Lihat 320.D1)
+
+. 42 C2 ♂ H. Iljas
+│
+╞══ Istri I:
+│   └── Anak: 161 D1 ♂ Moh Iljas (+165.D3)
+│
+╘══ Istri II:
+    └── Anak: 162 D2 ♂ Moh. Ma'ruf (+490.E4)
+
+. 43 C3 ♂ H. Ropingi    (+101.C2)
+│
+╞══ Istri I:
+│   ├── Anak: 163 D1 ♂ H. Kusen (+159.D4)
+│   ├── Anak: 164 D2 ♀ Iman Puro (lihat 65.D1)
+│   ├── Anak: 165 D3 ♀ Moh. Iljas (lihat 161.D1)
+│   ├── Anak: 166 D4 ♀ H. Ngumar (lihat 267.D3)
+│   └── Anak: 167 D5 ♂ Ngumar Ngalwi
+│
+╘══ Istri II:
+    ├── Anak: 168 D6 ♀ Ma'sum (lihat 72.D3)
+    └── Anak: 169 D7 ♀ Saripah
+
+. 44 C4 ♀ H. Ismangil   (+20.C1)

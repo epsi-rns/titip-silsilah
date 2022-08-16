@@ -1,0 +1,37 @@
+. 17 B7 ♂ Abdul Rahman
+    ├── Anak: 45 C1 ♂ H. Madnur
+    ├── Anak: 46 C2 ♀ Abd. Djalil
+    ├── Anak: 47 C3 ♀ H. Djaet (Istri dari adiknya Kijai Modjo)
+    ├── Anak: 48 C4 ♂ H. Turki (Pengulu Landrad Salatiga)
+    └── Anak: 49 C5 ♀ H. Sarip (Djid)
+
+. C1 ♂ H. Madnur
+│
+╞══ Istri I:
+│   ├── Anak: 170 D1 ♂ H. Ngumar (di Kalioso)
+│   └── Anak: 171 D2 ♂ H. Kasan (di Butuh)
+│
+╘══ Istri II:
+    ├── Anak: 171A D3 ♂ Somodimedjo (di Gabugan)
+    ├── Anak: 171B D4 ♂ Sastrowirono (di Ngamban)
+    └── Anak: 171C D5 ♂ Marto (di Ngijo)
+
+. C2 ♀ Abd. Djalil
+    ├── Anak: 172 D1 ♀ Kasan Abror (istri I Naib Pingkuk) (lihat 70.D1)
+    ├── Anak: 173 D2 ♂ Abd Kamid (di Kalioso)
+    ├── Anak: 174 D3 ♂ H. Kasan (di Butuh)
+    ├── Anak: 175 D4 ♀ Djojodikromo (Lihat 71.D2)
+    └── Anak: 176 D5 ♀ Markaban
+
+. C3 ♀ H. Djaet (Istri dari adiknya Kijai Modjo)
+
+. C4 ♂ H. Turki (Pengulu Landrad Salatiga)
+    ├── Anak: 177 D1 ♀ Moh. Djaet (di Slembaran Sala)
+    ├── Anak: 178 D2 ♂ Wirjosuhardjo (Kahir) (di br. Kidul Kalioso)
+    ├── Anak: 178A D3 ♀ 
+    └── Anak: 178B D4 ♂ 
+
+. C5 ♀ H. Sarip (Djid)
+    ├── Anak: 179 D1 ♂ Atmosuhardjo (Sukir) (di Gabugan)
+    ├── Anak: 180 D2 ♂ Garbopanuksmo (di Salam) (+246.D3)
+    └── Anak: 181 D3 ♂ Abd. Rahman (di Salam)

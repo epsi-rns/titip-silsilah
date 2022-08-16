@@ -1,0 +1,108 @@
+. 13 B3 ♂ H. Moch Qorib (Murtodjo)
+    │
+    ╞══ Istri 1: ♀ Putri Djobin (di Butuh)
+    ├── Anak: 25 C1 ♂ Kertojudo     (+39.C3)
+    ├── Anak: 26 C2 ♀ Honggodipo
+    ├── Anak: 27 C3 ♂ Kliwon Wiroprodjo
+    ├── Anak: 28 C4 ♂ Ketib Semeni Yogyakarta
+    ├── Anak: 29 C5 ♂ H. Jahjo
+    ├── Anak: 30 C6 ♀ Kasan Mohammad
+    ├── Anak: 31 C7 ♀ Mangun Redjo (Mantu Kijai Modjo)
+    │
+    ╞══ Istri 2: ♀ Putri Setjopawiro
+    ├── Anak: 32 C8 ♀ Iman Radji
+    └── Anak: 33 C9 ♂ Mohamad (Moh)
+
+. 25 C1 ♂ Kertojudo     (+39.C3)
+    ├── Anak: 77 D1 ♀ Kertomedjo
+    ├── Anak: 78 D2 ♀ Ranuwidjojo di Jampiroso
+    ├── Anak: 79 D3 ♂ Atmodikromo (+137.D4)
+    └── Anak: 80 D4 ♂ Atmodimejo
+
+. 26 C2 ♀ Honggodipo
+    ├── Anak: 81 D1 ♂ Mangundikromo (Panewu Distrik Kayu Apak)
+    ├── Anak: 82 D2 ♀ Mondowikromo TB
+    ├── Anak: 83 D3 ♀ Ronowikromo (Nidowikromo)
+    ├── Anak: 84 D4 ♀ H. Ngalwi di Karang Boyolali
+    ├── Anak: 85 D5 ♂ H. Moh. Asror (+183.D3)
+    └── Anak: 86 D6 ♂ Nidopawiro
+
+. 27 C3 ♂ Kliwon Wiroprodjo
+│
+╞══ Istri: 50 C1 ♀ (anak Abdul Djalal II, 19.B2)
+│   ├── Anak: 87 D1 ♀ Kartoredjo
+│   ├── Anak: 88 D2 ♂ Wirodikromo (+210.D1)
+│   ├── Anak: 89 D3 ♂ Prawirodimedjo
+│   ├── Anak: 90 D4 ♂ Prawiro Hatmodjo (+119.D1)
+│   ├── Anak: 91 D5 ♂ Ronodipuro (+127.D7)
+│   └── Anak: 92 D6 ♂ Djojosrawono (+294.D5) (+110.D9)
+│
+╞══ Istri: 62 C1 ♀ (anak Moh tohir, 21.B4)
+│   ├── Anak: 93 D7 ♀ Wreksokadojo (+.) (+106.D5)
+│   └── Anak: 94 D8 ♂ Djojosurojo (+110.D9)
+│
+╘══ Istri: ♀ 
+    ├── Anak: 95 D9 ♀ Wirohatmodjo
+    ├── Anak: 96 D10 ♂ Wiro Atmodjo (Brahim)
+    └── Anak: 97 D11 ♀ Warsopanuksmo di Jenengan Penging
+
+. 28 C4 ♂ Ketib Semeni Yogyakarta
+    ├── Anak: 98 D1 ♂ Ketib Sememi II (di Yogyakarta)
+    ├── Anak: 99 D2 ♂ Moh. Korib TB
+    ├── Anak: 100 D3 ♀ Trunoredjo
+    └── Anak: 101 D4 ♀ Pugeran TB
+
+. 29 C5 ♂ H. Jahjo
+│
+╞══ Istri I:
+│   ├── Anak: 102 D1 ♂ H. Ngumar di Ngidjo (+275.D3)
+│   ├── Anak: 103 D2 ♂ Gitodipuro (+5x)
+│   ├── Anak: 104 D3 ♀ Martowidjojo 
+│   ├── Anak: 105 D4 ♂ Mangunsediro (+3x)
+│
+╞══ Istri II: 
+│   ├── Anak: 106 D5 ♂ Tjitrotjahjono
+│   └── Anak: 108 D7 ♂ Martoatmodjo TB
+│
+╞══ Istri III: 
+│   ├── Anak: 107 D6 ♂ Somoatmodjo
+│   ├── Anak: 109 D8 ♂ H. Abdul Kanan
+│   ├── Anak: 110 D9 ♀ Djojosurojo (+94.D8) (+92.D6)
+│   ├── Anak: 112 D11 ♀ Djojosuhardo
+│   └── Anak: 114 D13 ♀ Sastroatmodjo TB
+│
+╞══ Istri IV: 
+│   └── Anak: 111 D10 ♂ Mangun Setomo
+│
+╞══ Istri V: 
+│   ├── Anak: 113 D12 ♀ Gitokartolo (+280.E1)
+│   └── Anak: 117 D16 ♀ Mondrosastro
+│
+╘══ Istri VI: 
+    ├── Anak: 115 D14 ♀ Gitopanuksmo
+    ├── Anak: 116 D15 ♀ Gitominardo (+302.D2)
+    └── Anak: 118 D17 ♂ Wraksosujahjo (+434.E2)
+
+. 30 C6 ♀ Kasan Mohammad
+    ├── Anak: 119 D1 ♀ Prawiroatmodjo (90.D4)
+    └── Anak: 120 D2 ♀ Kromodimedjo (230.D3)
+
+. 31 C7 ♀ Mangun Redjo (Mantu Kijai Modjo)
+    ├── Anak: 121 D1 ♀ Balad TB
+    ├── Anak: 122 D2 ♂ Djakso Nagoro (+3x)
+    ├── Anak: 123 D3 ♀ Gitodipuro TB (103.D3)
+    ├── Anak: 124 D4 ♂ Djojomartono
+    ├── Anak: 125 D5 ♀ Martoprawiro
+    ├── Anak: 126 D6 ♀ Resoatmodjo di Karang Anom
+    ├── Anak: 127 D7 ♀ Ronodipuro (Lihat 91-85)
+    └── Anak: 128 D8 ♂ Djojoredjo (+3x)
+
+. 32 C8 ♀ Iman Radji
+╘══ Suami: ♂ Iman Radji (putra khalifah di Kartosuro)
+    ├── Anak: 129 D1 ♀ Gitotaruno (6.D2)
+    ├── Anak: 130 D2 ♀ H. Sidik di Kalioso (207.D2)
+    ├── Anak: 131 D3 ♂ Djojosasmito di Trantang (+685.E3)
+    └── Anak: 132 D4 ♀ Moh Sudjak Naib Baki
+
+. 33 C9 ♂ Mukhamad (Moh)
+    └── Anak: 133 D1 ♀ Khamdi di Mondokan (lihat 10.D6)

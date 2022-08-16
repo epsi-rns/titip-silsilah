@@ -1,0 +1,18 @@
+. 14 B4 ♀ Surodrono
+    ├── Anak: 34 C1 ♂ Fekih Brahim  (+40.C4)
+    ├── Anak: 35 C2 ♂ Madning
+    └── Anak: 36 C3 ♂ Iman Sari
+
+. 34 C1 ♂ Fakih Brahim  (+40.C4)
+    ├── Anak: 134 D1 ♂ Moh Irsad I (di Parimono) (+142.D1)
+    ├── Anak: 135 D2 ♀ Kholifah di Pabelan
+    ├── Anak: 136 D3 ♀ H. Nurdin
+    ├── Anak: 137 D4 ♀ Atmodikromo (Lihat 79.83)
+    └── Anak: 138 D5 ♀ Somoprawiro
+
+. 35 C2 ♂ Madning
+
+. 36 C3 ♂ Iman Sari
+    ├── Anak: 139 D1 ♂ Iman Besari
+    ├── Anak: 140 D2 ♀ Iman Radji
+    └── Anak: 141 D3 ♀ Sukro
