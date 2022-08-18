@@ -9,7 +9,7 @@
     ├── Anak: 157 D2 ♀ Demang Tjengklik (Resodimedjo. Kasan Besari) (+198.D2)
     ├── Anak: 158 D3 ♀ Abdul Djalal IV (lihat 182.D1)
     ├── Anak: 159 D4 ♀ H. Kusen (+163.D1)
-    └── Anak: 160 D5 ♀ Nawawi (Lihat 320.D1)
+    └── Anak: 160 D5 ♀ Nawawi   (+320.D1)
 
 . 42 C2 ♂ H. Iljas
 │
@@ -22,14 +22,14 @@
 . 43 C3 ♂ H. Ropingi    (+101.C2)
 │
 ╞══ Istri I:
-│   ├── Anak: 163 D1 ♂ H. Kusen (+159.D4)
-│   ├── Anak: 164 D2 ♀ Iman Puro (lihat 65.D1)
-│   ├── Anak: 165 D3 ♀ Moh. Iljas (lihat 161.D1)
-│   ├── Anak: 166 D4 ♀ H. Ngumar (lihat 267.D3)
+│   ├── Anak: 163 D1 ♂ H. Kusen   (+159.D4)
+│   ├── Anak: 164 D2 ♀ Iman Puro  (+65.D1)
+│   ├── Anak: 165 D3 ♀ Moh. Iljas (+161.D1)
+│   ├── Anak: 166 D4 ♀ H. Ngumar  (+267.D3)
 │   └── Anak: 167 D5 ♂ Ngumar Ngalwi
 │
 ╘══ Istri II:
-    ├── Anak: 168 D6 ♀ Ma'sum (lihat 72.D3)
+    ├── Anak: 168 D6 ♀ Ma'sum     (+72.D3)
     └── Anak: 169 D7 ♀ Saripah
 
 . 44 C4 ♀ H. Ismangil   (+20.C1)

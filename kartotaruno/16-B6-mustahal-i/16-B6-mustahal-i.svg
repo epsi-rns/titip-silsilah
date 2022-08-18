@@ -191,14 +191,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.61833333"
-     inkscape:cx="787.60108"
-     inkscape:cy="362.26415"
+     inkscape:zoom="0.51310345"
+     inkscape:cx="-5.8467742"
+     inkscape:cy="362.5"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g8677"
      showgrid="false"
-     inkscape:window-width="1886"
-     inkscape:window-height="962"
+     inkscape:window-width="1332"
+     inkscape:window-height="650"
      inkscape:window-x="14"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
@@ -263,7 +263,7 @@
            sodipodi:role="line"
            id="tspan6117"
            x="699.88281"
-           y="679.55676">H. Kusen (+163.D1)</tspan></text>
+           y="679.55676">H. Kusen</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -357,7 +357,7 @@
            y="629.55676"
            x="699.0625"
            sodipodi:role="line"
-           id="tspan6165">Demang Tjengklik (+198.D2)</tspan></text>
+           id="tspan6165">Demang Tjengklik</tspan></text>
       <text
          id="text6171"
          y="630.36212"
@@ -404,7 +404,7 @@
            y="704.55676"
            x="699.0625"
            sodipodi:role="line"
-           id="tspan6201">Nawawi (320.D1)</tspan></text>
+           id="tspan6201">Nawawi</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -468,7 +468,7 @@
            y="654.55676"
            x="699.0625"
            sodipodi:role="line"
-           id="tspan7226">Abdul Djalal IV (182.D1)</tspan></text>
+           id="tspan7226">Abdul Djalal IV</tspan></text>
       <text
          id="text7232"
          y="655.36212"
@@ -499,6 +499,46 @@
            x="629.53125"
            sodipodi:role="line"
            id="tspan7238">158</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="800.70312"
+         y="679.55676"
+         id="text692"><tspan
+           sodipodi:role="line"
+           id="tspan690"
+           x="800.70312"
+           y="679.55676">(+163.D1)</tspan></text>
+      <text
+         id="text696"
+         y="629.55676"
+         x="804.88251"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="629.55676"
+           x="804.88251"
+           sodipodi:role="line"
+           id="tspan694">(+198.D2)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="799.88281"
+         y="704.55676"
+         id="text700"><tspan
+           y="704.55676"
+           x="799.88281"
+           sodipodi:role="line"
+           id="tspan698">(+320.D1)</tspan></text>
+      <text
+         id="text704"
+         y="654.55676"
+         x="799.88281"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="654.55676"
+           x="799.88281"
+           sodipodi:role="line"
+           id="tspan702">(+182.D1)</tspan></text>
     </g>
     <text
        id="text4519"
@@ -885,7 +925,7 @@
            id="tspan6953"
            sodipodi:role="line"
            x="399.0625"
-           y="800.55676">Ma'sum (72.D3)</tspan></text>
+           y="800.55676">Ma'sum</tspan></text>
       <text
          id="text6959"
          y="801.36212"
@@ -1013,7 +1053,7 @@
            id="tspan16497"
            sodipodi:role="line"
            x="399.88281"
-           y="678.55676">Iman Puro (65.D1)</tspan></text>
+           y="678.55676">Iman Puro</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1060,7 +1100,7 @@
            id="tspan16515"
            sodipodi:role="line"
            x="399.88281"
-           y="702.55676">Moh. Iljas (161.D1)</tspan></text>
+           y="702.55676">Moh. Iljas</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1107,7 +1147,7 @@
            id="tspan16533"
            sodipodi:role="line"
            x="399.88281"
-           y="726.55676">H. Ngumar (267.D3)</tspan></text>
+           y="726.55676">H. Ngumar</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1235,13 +1275,53 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#880e4f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="489.0625"
+         x="499.0625"
          y="654.55676"
          id="text16587"><tspan
            id="tspan16585"
            sodipodi:role="line"
-           x="489.0625"
+           x="499.0625"
            y="654.55676">(+159.D4)</tspan></text>
+      <text
+         id="text574"
+         y="800.55676"
+         x="499.0625"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan572"
+           sodipodi:role="line"
+           x="499.0625"
+           y="800.55676">(+72.D3)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="499.88281"
+         y="678.55676"
+         id="text578"><tspan
+           id="tspan576"
+           sodipodi:role="line"
+           x="499.88281"
+           y="678.55676">(+65.D1)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="499.88281"
+         y="702.55676"
+         id="text582"><tspan
+           id="tspan580"
+           sodipodi:role="line"
+           x="499.88281"
+           y="702.55676">(+161.D1)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="499.88281"
+         y="726.55676"
+         id="text586"><tspan
+           id="tspan584"
+           sodipodi:role="line"
+           x="499.88281"
+           y="726.55676">(+267.D3)</tspan></text>
     </g>
     <g
        id="g15597"
@@ -1378,22 +1458,22 @@
       <text
          id="text16485"
          y="704.55676"
-         x="489.0625"
+         x="499.0625"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#880e4f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan16483"
            sodipodi:role="line"
-           x="489.0625"
+           x="499.0625"
            y="704.55676">(+490.E4)</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#880e4f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="489.88281"
+         x="499.88281"
          y="654.55676"
          id="text16489"><tspan
            id="tspan16487"
            sodipodi:role="line"
-           x="489.88281"
+           x="499.88281"
            y="654.55676">(+165.D3)</tspan></text>
     </g>
   </g>

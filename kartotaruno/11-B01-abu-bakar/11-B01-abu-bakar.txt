@@ -6,16 +6,16 @@
 . 22 C1 ♀ Minhat
 ╘══ Suami: ♂ Minhat (+20.B3)
     ├── Anak: 56 D1 ♀ Abd Rahman
-    ├── Anak: 57 D2 ♀ Mustahal II (Lihat: 41 C1)
+    ├── Anak: 57 D2 ♀ Mustahal II (+41.C1)
     ├── Anak: 58 D3 ♀ Iman Fakih 
-    ├── Anak: 59 D4 ♂ Moh Irsad (+54 C5)
-    ├── Anak: 60 D5 ♀ H. Sarbini (+76A D1)
-    └── Anak: 61 D6 ♂ Moh. Ilham (di Kartosuro)
+    ├── Anak: 59 D4 ♂ Moh Irsad   (+54.C5)
+    ├── Anak: 60 D5 ♀ H. Sarbini  (+76A.D1)
+    └── Anak: 61 D6 ♂ Moh. Ilham  (di Kartosuro)
 
 . 23 C2 ♀ Djati Salam (Iman Dawud)
 
 . 24 C3 ♀ Mansur (Muchjidin)
-╞══ Suami: ♂ Madras
+╞══ Suami: ♂ Madras (Muchjidin)
 │   └── Anak: 76A D1 ♂ Syarbini
 │
 ╘══ Suami: ♂ Mansur (Karang Bojolali)

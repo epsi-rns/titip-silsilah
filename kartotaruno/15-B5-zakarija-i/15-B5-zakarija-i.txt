@@ -5,15 +5,15 @@
     └── Anak: 40 C4 ♀ Fekih Ibrahim (+24.C1)
 
 . 37 C1 ♂ Zakarija II   (+64.C1)
-    ├── Anak: 142 D1 ♀ Moh. Irsad I (di Parimono) (lihat 134.D1)
-    ├── Anak: 143 D2 ♀ Moh. Saleh (di Bulu) (lihat 55.C6)
+    ├── Anak: 142 D1 ♀ Moh. Irsad I (di Parimono) (+134.D1)
+    ├── Anak: 143 D2 ♀ Moh. Saleh (di Bulu) (+55.C6)
     ├── Anak: 144 D3 ♂ Mangunpawiro
     ├── Anak: 145 D4 ♂ Somodikromo
     ├── Anak: 146 D5 ♂ Nidopawiro
-    ├── Anak: 147 D6 ♂ Moh. Idris (lihat 66.D2)
-    ├── Anak: 148 D7 ♀ Muhtar (lihat 7.D3)
+    ├── Anak: 147 D6 ♂ Moh. Idris (+66.D2)
+    ├── Anak: 148 D7 ♀ Muhtar (+7.D3)
     ├── Anak: 149 D8 ♂ H. Amin
-    └── Anak: 150 D9 ♀ Muhtar (lihat 7.D3)
+    └── Anak: 150 D9 ♀ Muhtar (+7.D3)
 
 . 38 C2 ♂ H. Anwar      (+53.C4)
     ├── Anak: 151 D1 ♂ Moh Khamdi TB

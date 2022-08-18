@@ -29,7 +29,7 @@
 
 . 27 C3 ♂ Kliwon Wiroprodjo
 │
-╞══ Istri: 50 C1 ♀ (anak Abdul Djalal II, 19.B2)
+╞══ Istri 1: 50 C1 ♀ (anak Abdul Djalal II, 19.B2)
 │   ├── Anak: 87 D1 ♀ Kartoredjo
 │   ├── Anak: 88 D2 ♂ Wirodikromo (+210.D1)
 │   ├── Anak: 89 D3 ♂ Prawirodimedjo
@@ -37,11 +37,11 @@
 │   ├── Anak: 91 D5 ♂ Ronodipuro (+127.D7)
 │   └── Anak: 92 D6 ♂ Djojosrawono (+294.D5) (+110.D9)
 │
-╞══ Istri: 62 C1 ♀ (anak Moh tohir, 21.B4)
+╞══ Istri 2: 62 C1 ♀ (anak Moh tohir, 21.B4)
 │   ├── Anak: 93 D7 ♀ Wreksokadojo (+.) (+106.D5)
 │   └── Anak: 94 D8 ♂ Djojosurojo (+110.D9)
 │
-╘══ Istri: ♀ 
+╘══ Istri 3: ♀ 
     ├── Anak: 95 D9 ♀ Wirohatmodjo
     ├── Anak: 96 D10 ♂ Wiro Atmodjo (Brahim)
     └── Anak: 97 D11 ♀ Warsopanuksmo di Jenengan Penging
@@ -94,15 +94,15 @@
     ├── Anak: 124 D4 ♂ Djojomartono
     ├── Anak: 125 D5 ♀ Martoprawiro
     ├── Anak: 126 D6 ♀ Resoatmodjo di Karang Anom
-    ├── Anak: 127 D7 ♀ Ronodipuro (Lihat 91-85)
+    ├── Anak: 127 D7 ♀ Ronodipuro (Lihat 91.D5)
     └── Anak: 128 D8 ♂ Djojoredjo (+3x)
 
 . 32 C8 ♀ Iman Radji
 ╘══ Suami: ♂ Iman Radji (putra khalifah di Kartosuro)
     ├── Anak: 129 D1 ♀ Gitotaruno (6.D2)
-    ├── Anak: 130 D2 ♀ H. Sidik di Kalioso (207.D2)
+    ├── Anak: 130 D2 ♀ H. Sidik di Kalioso (270.D2)
     ├── Anak: 131 D3 ♂ Djojosasmito di Trantang (+685.E3)
     └── Anak: 132 D4 ♀ Moh Sudjak Naib Baki
 
 . 33 C9 ♂ Mukhamad (Moh)
-    └── Anak: 133 D1 ♀ Khamdi di Mondokan (lihat 10.D6)
+    └── Anak: 133 D1 ♀ Khamdi di Mondokan (10.D6)
