@@ -8254,9 +8254,9 @@
        inkscape:label="Drop Shadow"
        id="filter12723"
        x="-0.032217573"
-       y="-0.023692299"
+       y="-0.308"
        width="1.0853556"
-       height="1.0627692">
+       height="1.816">
       <feFlood
          flood-opacity="0.501961"
          flood-color="rgb(0,0,0)"
@@ -8448,11 +8448,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.20152543"
-     inkscape:cx="647.56095"
-     inkscape:cy="1523.3809"
+     inkscape:zoom="1.6122034"
+     inkscape:cx="1299.774"
+     inkscape:cy="922.96047"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g9817"
      showgrid="false"
      inkscape:window-width="1886"
      inkscape:window-height="962"
@@ -12507,7 +12507,7 @@
            sodipodi:role="line"
            id="tspan9819"
            x="799.88281"
-           y="729.55676">(+110.D9)</tspan></text>
+           y="729.55676">(+294.D5)</tspan></text>
       <text
          id="text9825"
          y="679.55676"
@@ -12591,7 +12591,7 @@
            y="830.36212"
            x="649.0625"
            sodipodi:role="line"
-           id="tspan9851">D2</tspan></text>
+           id="tspan9851">D8</tspan></text>
       <text
          id="text9857"
          y="828.4798"
@@ -12638,7 +12638,7 @@
            y="805.36212"
            x="649.0625"
            sodipodi:role="line"
-           id="tspan9869">D1</tspan></text>
+           id="tspan9869">D7</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -12722,7 +12722,7 @@
            y="905.36212"
            x="649.0625"
            sodipodi:role="line"
-           id="tspan9901">D2</tspan></text>
+           id="tspan9901">D10</tspan></text>
       <text
          id="text9907"
          y="903.4798"
@@ -12769,7 +12769,7 @@
            y="880.36212"
            x="649.0625"
            sodipodi:role="line"
-           id="tspan9919">D1</tspan></text>
+           id="tspan9919">D9</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -12816,7 +12816,7 @@
            y="930.36212"
            x="649.0625"
            sodipodi:role="line"
-           id="tspan9945">D3</tspan></text>
+           id="tspan9945">D11</tspan></text>
       <text
          id="text9951"
          y="928.4798"

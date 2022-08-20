@@ -1,7 +1,7 @@
 . A2 ♀ Kartotaruno
 ╘══ Suami: ♂ Kartotaruno
     ├── Anak: 11 B1 ♂ Abu Bakar
-    ├── Anak: 12 B2 ♂ Abd. kadir (+3.B3)
+    ├── Anak: 12 B2 ♂ Abd. Kadir (+3.B3)
     ├── Anak: 13 B3 ♂ H. Moch Qorib (Murtodjo)
     ├── Anak: 14 B4 ♀ Surodrono
     ├── Anak: 15 B5 ♂ Zakarija I (di Pabelan Magelang)

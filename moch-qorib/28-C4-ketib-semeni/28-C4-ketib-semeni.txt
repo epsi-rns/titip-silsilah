@@ -1,0 +1,29 @@
+. 28 C4 ♂ Ketib Semeni Yogyakarta
+    ├── Anak: 98 D1 ♂ Ketib Sememi II (di Yogyakarta)
+    ├── Anak: 99 D2 ♂ Moh. Korib TB
+    ├── Anak: 100 D3 ♀ Trunoredjo
+    └── Anak: 101 D4 ♀ Pugeran TB
+
+98 D1 ♂ Ketib Sememi II
+    ├── Anak: 325 E1 ♂ Sangidu (H. Said) di Yogya
+    ├── Anak: 326 E2 ♀ Misbah Wirosentono
+    ├── Anak: 327 E3 ♀ H. Ngumar (-Cures)
+    ├── Anak: 328 E4 ♀ Irsad TB
+    ├── Anak: 329 E5 ♀ Iman (di Babadan)
+    ├── Anak: 330 E6 ♀ H. Ngumar TB
+    ├── Anak: 331 E7 ♀ Maksudi TB
+    ├── Anak: 332 E8 ♀ Abdullah TB
+    ├── Anak: 333 E9 ♀ H. Kusen TB (di Notoprajan) (Cures)
+    ├── Anak: 334 E10 ♀ H. Djohar TB (di Dongkelan Yogya)
+    ├── Anak: 335 E11 ♂ Ketib Sememi III TB
+    └── Anak: 336 E12 ♀ Suharijah (Sudihardojo)
+
+99 D2 ♂ Moh. Korib
+TB
+
+100 D3 ♀ Trunoredjo
+    ├── Anak: 337 E1 ♀ Murtolo
+    └── Anak: 338 E2 ♂ Rosidi (di Pugeran Cawas)
+
+101 D4 ♀ Pugeran
+TB

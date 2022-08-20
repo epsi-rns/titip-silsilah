@@ -1,0 +1,94 @@
+. 27 C3 ♂ Kliwon Wiroprodjo
+│
+╞══ Istri 1: 50 C1 ♀ (anak Abdul Djalal II, 19.B2)
+│   ├── Anak: 87 D1 ♀ Kartoredjo
+│   ├── Anak: 88 D2 ♂ Wirodikromo (+210.D1)
+│   ├── Anak: 89 D3 ♂ Prawirodimedjo
+│   ├── Anak: 90 D4 ♂ Prawiro Hatmodjo (+119.D1)
+│   ├── Anak: 91 D5 ♂ Ronodipuro (+127.D7)
+│   └── Anak: 92 D6 ♂ Djojosrawono (+294.D5) (+110.D9)
+│
+╞══ Istri 2: 62 C1 ♀ (anak Moh tohir, 21.B4)
+│   ├── Anak: 93 D7 ♀ Wreksokadojo (+.) (+106.D5)
+│   └── Anak: 94 D8 ♂ Djojosurojo (+110.D9)
+│
+╘══ Istri 3: ♀ 
+    ├── Anak: 95 D9 ♀ Wirohatmodjo
+    ├── Anak: 96 D10 ♂ Wiro Atmodjo (Brahim)
+    └── Anak: 97 D11 ♀ Warsopanuksmo di Jenengan Penging
+
+
+87 D1 ♀ Kartoredjo
+    ├── Anak: 284 E1 ♂ Djojosujoso TB
+    ├── Anak: 285 E2 ♂ Kartopawiro TB
+    ├── Anak: 286 E3 ♀ H. Ngalwi  (+212.D3)
+    └── Anak: 287 E4 ♀ Sutopawiro (+234.D7)
+
+88 D2 ♂ Wirodikromo
+│
+╞══ Istri 1: (210.D1)
+│   ├── Anak: 288 E1 ♀ Wirotenojo (+155.D5)
+│   ├── Anak: 290 E3 ♂ Jano Panuksmo (Mardjan) (di Sangkrah)
+│   ├── Anak: 291 E4 ♂ Jakub Kartoatmodjo (di Tanjungselan Kalimantan Timur)
+│   └── Anak: 292 E5 ♂ Muljohartono TB
+│
+╘══ Istri 2: 
+    └── Anak: 289 E2 ♀ Somoredjo
+
+89 D3 ♂ Prawirodimedjo
+    └── Anak: 293 E1 ♀ Tjepoko (Abdi Dalem Lurah Midji Kraton)
+
+90 D4 ♂ Prawiro Hatmodjo (+119.D1)
+    └── Anak: 294 E1 ♀ Wirjohastono
+
+91 D5 ♂ Ronodipuro (+127.D7)
+    ├── Anak: 295 E1 ♂ Dipowiguno
+    ├── Anak: 296 E2 ♂ Karijosediro   (+433.E1)
+    ├── Anak: 297 E3 ♀ Wongsopurojo   (+2051.F2)
+    ├── Anak: 298 E4 ♂ Prawirosumarto
+    ├── Anak: 299 E5 ♂ Wredohastono
+    ├── Anak: 300 E6 ♂ Rono Sewojo
+    ├── Anak: 301 E7 ♂ Sutosutrojo    (+414.E7)
+    └── Anak: 302 E8 ♀ Wondosastro
+
+92 D6 ♂ Djojosrawono
+│
+╞══ Istri 1: (+294.D5) ?
+│   ├── Anak: 303 E1 ♀ Pekih Ibrahim (isteri I)
+│   ├── Anak: 304 E2 ♀ Djojosediro
+│   ├── Anak: 305 E3 ♂ Prodjosuhardo
+│   └── Anak: 306 E4 ♀ Widohastono
+│
+╞══ Istri 2: (+294.D5) ?
+│   ├── Anak: 307 E5 ♂ Darmowijoto
+│   ├── Anak: 308 E6 ♂ Dirdjosrawono Naib (Gemolong)
+│   └── Anak: 309 E7 ♂ Hartomidjono
+│
+╘══ Istri 3: (+110.D9 Rondo)
+    ├── Anak: 310 E8 ♂ Ibnu Djojoprajitno (di Magelang)
+    └── Anak: 311 E9 ♀ Sronopranoto
+
+93 D7 ♀ Wreksokadojo (+.) (+106.D5)
+    ├── Anak: 312 E1 ♀ Moh. Idris
+    └── Anak: 313 E2 ♀ Abdullah
+
+94 D8 ♂ Djojosurojo
+╘══ Istri: Djojosurojo (+110.D9)
+    ├── Anak: 314 E1 ♀ Djogosudarto (+283.D11)
+    ├── Anak: 315 E2 ♂ Djojosudiro  (+304.E2)
+    ├── Anak: 316 E3 ♂ Wongsohartono
+    ├── Anak: 317 E4 ♀ Djojopranoto (+382.E2)
+    └── Anak: 318 E5 ? Djojosumarto
+
+95 D9 ♀ Wirohatmodjo
+    ├── Anak: 319 E1 ♀ Kasan (Bawuk)
+    ├── Anak: 320 E2 ♀ Martosewoko (Sireng)
+    ├── Anak: 321 E3 ♀ Bandijah
+    ├── Anak: 322 E4 ♂ Sajuti
+    └── Anak: 323 E5 ♀ Sawal
+
+96 D10 ♂ Wiro Atmodjo (Brahim)
+TB
+
+97 D11 ♀ Warsopanuksmo di Jenengan Penging
+    └── Anak: 324 E1 ♀ Djuni (di Pengging)

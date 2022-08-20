@@ -54,31 +54,31 @@
 
 . 29 C5 ♂ H. Jahjo
 │
-╞══ Istri I:
+╞══ Istri 1:
 │   ├── Anak: 102 D1 ♂ H. Ngumar di Ngidjo (+275.D3)
 │   ├── Anak: 103 D2 ♂ Gitodipuro (+5x)
 │   ├── Anak: 104 D3 ♀ Martowidjojo 
 │   └── Anak: 105 D4 ♂ Mangunsediro (+3x)
 │
-╞══ Istri II: 
+╞══ Istri 2: 
 │   ├── Anak: 106 D5 ♂ Tjitrotjahjono
 │   └── Anak: 108 D7 ♂ Martoatmodjo TB
 │
-╞══ Istri III: 
+╞══ Istri 3: 
 │   ├── Anak: 107 D6 ♂ Somoatmodjo
 │   ├── Anak: 109 D8 ♂ H. Abdul Kanan
 │   ├── Anak: 110 D9 ♀ Djojosurojo (+94.D8) (+92.D6)
 │   ├── Anak: 112 D11 ♀ Djojosuhardo
 │   └── Anak: 114 D13 ♀ Sastroatmodjo TB
 │
-╞══ Istri IV: 
+╞══ Istri 4: 
 │   └── Anak: 111 D10 ♂ Mangun Setomo
 │
-╞══ Istri V: 
+╞══ Istri 5: 
 │   ├── Anak: 113 D12 ♀ Gitokartolo (+280.E1)
 │   └── Anak: 117 D16 ♀ Mondrosastro
 │
-╘══ Istri VI: 
+╘══ Istri 6: 
     ├── Anak: 115 D14 ♀ Gitopanuksmo
     ├── Anak: 116 D15 ♀ Gitominardo (+302.D2)
     └── Anak: 118 D17 ♂ Wraksosujahjo (+434.E2)

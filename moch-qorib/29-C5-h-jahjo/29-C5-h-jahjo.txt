@@ -1,0 +1,138 @@
+. 29 C5 ♂ H. Jahjo
+│
+╞══ Istri 1:
+│   ├── Anak: 102 D1 ♂ H. Ngumar di Ngidjo (+275.D3)
+│   ├── Anak: 103 D2 ♂ Gitodipuro (+5x)
+│   ├── Anak: 104 D3 ♀ Martowidjojo 
+│   ├── Anak: 105 D4 ♂ Mangunsediro (+3x)
+│
+╞══ Istri 2: 
+│   ├── Anak: 106 D5 ♂ Tjitrotjahjono
+│   └── Anak: 108 D7 ♂ Martoatmodjo TB
+│
+╞══ Istri 3: 
+│   ├── Anak: 107 D6 ♂ Somoatmodjo
+│   ├── Anak: 109 D8 ♂ H. Abdul Kanan
+│   ├── Anak: 110 D9 ♀ Djojosurojo (+94.D8) (+92.D6)
+│   ├── Anak: 112 D11 ♀ Djojosuhardo
+│   └── Anak: 114 D13 ♀ Sastroatmodjo TB
+│
+╞══ Istri 4: 
+│   └── Anak: 111 D10 ♂ Mangun Setomo
+│
+╞══ Istri 5: 
+│   ├── Anak: 113 D12 ♀ Gitokartolo (+280.E1)
+│   └── Anak: 117 D16 ♀ Mondrosastro
+│
+╘══ Istri 6: 
+    ├── Anak: 115 D14 ♀ Gitopanuksmo
+    ├── Anak: 116 D15 ♀ Gitominardo (+302.D2)
+    └── Anak: 118 D17 ♂ Wraksosujahjo (+434.E2)
+
+102 D1 ♂ H. Ngumar di Ngidjo (+275.D3)
+    ├── Anak: 339 E1 ♂ Kartoredjo (Mantri tuwobaru) (+3x) (+279.E3)
+    ├── Anak: 340 E2 ♀ Djojoredjo (di Salam) (lihat 128.D8)
+    ├── Anak: 341 E3 ♀ Gitohandogo (di Sukohardjo) (lihat 287.D4)
+    ├── Anak: 342 E4 ♀ Tirtoatmodjo (di Kacangan)
+    ├── Anak: 343 E5 ♀ Wreksotjondono di Kalioso
+    ├── Anak: 344 E6 ♀ Kartotenojo di Sukohardjo
+    ├── Anak: 345 E7 ♂ Diposuwwirjo di Karanggede
+    ├── Anak: 346 E8 ♂ Wahju di Tonggak Ngijo
+    ├── Anak: 347 E9 ♂ Djojosukirno di Kalioso
+    ├── Anak: 348 E10 ♂ Marto (Kadir) (Ijam Ngijo)
+    └── Anak: 349 E11 ♀ Kartoatmodjo (Ngeleng di Ngijo)
+
+103 D2 ♂ Gitodipuro (+5x)
+    ├── Anak: 350 E1 ♂ Gitosuwirjo Mantri Pangrembe di Kacangan (+361.E1)
+    ├── Anak: 351 E2 ♀ Hardopradoto Panewu Kepatihan
+    ├── Anak: 352 E3 ♂ Gitosudirdjo Panewu Pangrembe di Karanggede
+    ├── Anak: 353 E4 ♀ Djojopawoko (+3x) (+372.E1)
+    ├── Anak: 354 E5 ♀ Sutopuspito TB
+    ├── Anak: 355 E6 ♀ Gitosaputro (di Grobagan Sala)
+    ├── Anak: 356 E7 ♂ Surohatmodjo (di Keprabon) (lihat 789.E3)
+    ├── Anak: 357 E8 ♀ Ngusman Kartohardjendro (+2x) (+371.E8) (TB)
+    ├── Anak: 358 E9 ♂ Ruslan
+    ├── Anak: 359 E10 ♂ Mangunsediro III (+385.E1)
+    └── Anak: 360 E11 ♀ Bandinah Brototenojo
+
+104 D3 ♀ Martowidjojo 
+    └── Anak: 361 E1 ♀ Gitosuwirjo (lihat 350.D1)
+
+105 D4 ♂ Mangunsediro (+3x)
+    ├── Anak: 362 E1 ♀ Djaetun Wirjodisastro TB
+    └── Anak: 363 E2 ♂ Mangunsediro II (di Ngamban)
+
+106 D5 ♂ Tjitrotjahjono
+│
+╞══ Istri 1: 
+│   ├── Anak: 364 E1 ♀ Mangunsediro II TB
+│   ├── Anak: 365 E2 ♂ Sunendar Wreksokadojo II (+2x) (432.E3) (TB)
+│   ├── Anak: 366 E3 ♀ Sri Mangunsetoto (di Semarang) TB
+│   ├── Anak: 367 E4 ♀ Rame Djojosuwahjo (lihat 242.D6)
+│   ├── Anak: 368 E5 ♀ Sawalijah Kartonimpuno (lihat 911.F4)
+│
+╞══ Istri 2: (93.D7)
+│   ├── Anak: 369 E6 ♂ Gareng Kartosuwignjo (di Ngemplak Sala) (+436.E4)
+│   ├── Anak: 370 E7 ♀ Dasijah Mangunhoneng (lihat 381.E1)
+│
+╘══ Istri 3: (107.D6)
+    └── Anak: 371 E8 ♀ Kamsirin Kartohardjendro TB (lihat 357.E8)
+
+107 D6 ♂ Somoatmodjo
+    └── Anak: 372 E1 ♂ Glundung Somokartiko
+
+108 D7 ♂ Martoatmodjo
+TB
+
+109 D8 ♂ H. Abdul Kanan
+    └── Anak: 373 E1 ♂ Pardjan (di Sumatra) (TB)
+
+110 D9 ♀ Djojosurojo
+(+94.D8) 
+(+92.D6)
+
+111 D10 ♂ Mangun Setomo
+    ├── Anak: 374 E1 ♂ Sasmojo
+    ├── Anak: 375 E2 ♂ Sasmoko Mangunsudarto (+831.E1)
+    ├── Anak: 376 E3 ♀ Sarsijah Hartodeksono (+391.E2)
+    ├── Anak: 377 E4 ♀ Sasmanijah Sastrosadarno
+    ├── Anak: 378 E5 ♂ Sasongko (di Karang Asem Sala) (+878 F1)
+    └── Anak: 380 E7 ♂ Sasomo (di Bojonegoro)
+
+112 D11 ♀ Djojosuhardo
+    ├── Anak: 381  E1 ♂ Mangunhoneng (+370.E7)
+    ├── Anak: 382  E2 ♂ Sahirdjan Djojopranoto (+317.E4)
+    ├── Anak: 382A E3 ♂ Hardiman di Wedarijekso
+    ├── Anak: 383  E4 ♂ Pontjopranoto (Wedono Bekonang) (+832.E2)
+    └── Anak: 384  E5 ♂ Sahirlan (Kep. STN Tjolomadu) (+833.F3)
+
+113 D12 ♀ Gitokartolo (+280.E1)
+    ├── Anak: 385 E1 ♂ Ronggo Mangunsediro (359.E10)
+    ├── Anak: 386 E2 ♂ Wahono
+    ├── Anak: 387 E3 ♀ Sutinah TB (lihat 447.E2)
+    ├── Anak: 388 E4 ♂ Sujono Dentopranoto (gugur tahun 1949)
+    └── Anak: 389 E5 ♀ Samsijah (Saleh Wirosediro) (+627.F1)
+
+114 D13 ♀ Sastroatmodjo
+TB
+
+115 D14 ♀ Gitopanuksmo
+    ├── Anak: 390 E1 ♂ Sutomo Djojominardo (+393.E1)
+    ├── Anak: 391 E2 ♂ Edris Hartodeksono  (lihat 376.E3)
+    └── Anak: 392 E3 ♂ Sujono Sronopranoto (lihat 311.E9)
+
+116 D15 ♀ Gitominardo (+302.D2)
+    ├── Anak: 393 E1 ♀ Suminah Djojominardo (lihat 390.E1)
+    ├── Anak: 394 E2 ♀ Sitin (Sudjono Kartoatmodjo di Tanggung Semarang TB)
+    ├── Anak: 395 E3 ♀ Sutrep Hartosujono
+    └── Anak: 396 E4 ♂ Sukarto Somoatmodjo
+
+117 D16 ♀ Mondrosastro
+    └── Anak: 397 E1 ♀ Hendrodipuro (Istri Panewu Makam di Imogiri)
+
+118 D17 ♂ Wraksosujahjo (+434.E2)
+    ├── Anak: 398 E1 ♂ Surati Praptowijoto (Peg. Kehutanan di Semarang)
+    ├── Anak: 399 E2 ♂ Sugijanto Wirjosudarmo (di Semarang DKA)
+    ├── Anak: 400 E3 ♀ Dubruk Tjiroatmodjo (di Kacangan)
+    ├── Anak: 401 E4 ♂ Sarono (di Kedung Banteng Sragen)
+    └── Anak: 402 E5 ♀ Sasminah Sastrosukamto (di Kacangan)

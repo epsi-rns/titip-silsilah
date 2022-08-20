@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="1200"
-   height="725"
-   viewBox="0 0 1200 725"
+   height="425"
+   viewBox="0 0 1200 425"
    id="svg2"
    version="1.1"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
@@ -22,27 +22,31 @@
     <inkscape:path-effect
        effect="spiro"
        id="path-effect4517"
-       is_visible="true" />
+       is_visible="true"
+       lpeversion="0" />
     <inkscape:path-effect
        is_visible="true"
        id="path-effect3945"
-       effect="spiro" />
+       effect="spiro"
+       lpeversion="0" />
     <inkscape:path-effect
        is_visible="true"
        id="path-effect3899"
-       effect="spiro" />
+       effect="spiro"
+       lpeversion="0" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect3843"
-       is_visible="true" />
+       is_visible="true"
+       lpeversion="0" />
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter1001"
-       x="-0.052301255"
+       x="-0.052301254"
        y="-0.5"
        width="1.1171548"
-       height="2.12">
+       height="2.1199999">
       <feFlood
          flood-opacity="0.501961"
          flood-color="rgb(0,0,0)"
@@ -187,14 +191,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5226366"
-     inkscape:cx="602.90157"
-     inkscape:cy="315.89941"
+     inkscape:zoom="0.935"
+     inkscape:cx="575.40107"
+     inkscape:cy="362.56684"
      inkscape:document-units="px"
-     inkscape:current-layer="g8677"
+     inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:window-width="1332"
-     inkscape:window-height="650"
+     inkscape:window-width="1886"
+     inkscape:window-height="962"
      inkscape:window-x="14"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
@@ -227,10 +231,10 @@
      transform="translate(0,195)"
      sodipodi:insensitive="true">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.9999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4924"
        width="1200"
-       height="725"
+       height="425"
        x="0"
        y="-194.99994" />
   </g>
@@ -540,7 +544,9 @@
        y="424.31595"
        id="text3351"><tspan
          sodipodi:role="line"
-         id="tspan3349" /></text>
+         id="tspan3349"
+         x="111.46334"
+         y="424.31595" /></text>
     <g
        id="g1420-8"
        transform="translate(-600,-550)"

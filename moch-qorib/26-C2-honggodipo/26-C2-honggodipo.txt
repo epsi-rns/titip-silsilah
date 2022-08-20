@@ -1,0 +1,33 @@
+. 26 C2 ♀ Honggodipo
+    ├── Anak: 81 D1 ♂ Mangundikromo (Panewu Distrik Kayu Apak)
+    ├── Anak: 82 D2 ♀ Mondowikromo TB
+    ├── Anak: 83 D3 ♀ Ronowikromo (Nidowikromo)
+    ├── Anak: 84 D4 ♀ H. Ngalwi di Karang Boyolali
+    ├── Anak: 85 D5 ♂ H. Moh. Asror (+183.D3)
+    └── Anak: 86 D6 ♂ Nidopawiro
+
+81 D1 ♂ Mangundikromo (Panewu Distrik Kayu Apak)
+- Di halaman tambahan
+
+82 D2 ♀ Mondowikromo
+TB
+-
+
+83 D3 ♀ Ronowikromo (Nidowikromo)
+-
+
+84 D4 ♀ H. Ngalwi (di Karang Boyolali)
+    ├── Anak: 277  ♂ E1 Redjo Mochamad
+    ├── Anak: 278  ♀ E2 Lurah Sopingi (+211.D2)
+    ├── Anak: 279  ♀ E3 Kartoredjo    (+339.E1)
+    ├── Anak: 279A ♂ E4 Imandinomo (2x) (+349.D1)
+    ├── Anak: 279B ♀ E5 Demang Jati
+    └── Anak: 279C ♀ E6 Demang Djojoredjo
+
+85 D5 ♂ H. Moh. Asror (+183.D3)
+    ├── Anak: 280 E1 ♂ Gitokartolo (lihat 113.D12)
+    ├── Anak: 281 E2 ♂ Mangunhardjo (di Pugeran Tjawas)
+    └── Anak: 282 E3 ♀ Asmoredjo (lihat 73.C6)
+
+86 D6 ♂ Nidopawiro
+-

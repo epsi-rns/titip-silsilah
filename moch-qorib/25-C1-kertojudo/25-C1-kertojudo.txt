@@ -1,0 +1,39 @@
+. 25 C1 ♂ Kertojudo     (+39.C3)
+    ├── Anak: 77 D1 ♀ Kertomedjo
+    ├── Anak: 78 D2 ♀ Ranuwidjojo di Jampiroso
+    ├── Anak: 79 D3 ♂ Atmodikromo (+137.D4)
+    └── Anak: 80 D4 ♂ Atmodimejo
+
+77 D1 ♀ Kertomedjo
+    ├── Anak: 249 E1 ♀ Djambon
+    ├── Anak: 250 E2 ♀ Tegal Lor
+    ├── Anak: 251 E3 ♂ Kromoredjo (kepala desa Jangkang)
+    ├── Anak: 252 E4 ♀ Diporedjo
+    ├── Anak: 253 E5 ♂ Sutopawiro (di Jangkang)
+    ├── Anak: 254 E6 ♀ Kertotaruno (isteri lurah Jangkang)
+    ├── Anak: 255 E7 ♀ Redjodimedjo (isteri lurah Kunden)
+    ├── Anak: 256 E8 ♀ Sutoredjo
+    └── Anak: 257 E9 ♂ Supingi Somowardojo (lurah Djangkang)
+
+78 D2 ♀ Ranuwidjojo di Jampiroso
+    ├── Anak: 258 E1 ♀ Ranu Pawiro
+    ├── Anak: 259 E2 ♂ Kertoredjo  (di Jangkang)
+    ├── Anak: 260 E3 ♂ Trunoredjo  (di Jangkang)
+    └── Anak: 261 E4 ♀ Atmodimedjo (di Borobudur)
+    
+79 D3 ♂ Atmodikromo (+137.D4)
+    ├── Anak: 262 E1 ♀ Isteri Carik (di Jampiroso)
+    ├── Anak: 263 E2 ♂ Djojopawiro  (di Jampiroso)
+    ├── Anak: 264 E3 ♀ H. Amin      (di Jampiroso)
+    ├── Anak: 265 E4 ♀ Wongso       (di Jampiroso)
+    └── Anak: 266 E5 ♂ Wirodihardjo (di Jampiroso)
+
+80 D4 ♂ Atmodimejo
+    ├── Anak: 267 E1 ♀ Martoredjo   (di Kalangan Magelang)
+    ├── Anak: 268 E2 ♀ Djojodimedjo (di Pabelan)
+    ├── Anak: 269 E3 ♂ Mardjuki     (di Sumatra)
+    ├── Anak: 270 E4 ♂ Djojosumarto (di Sumatra)
+    ├── Anak: 271 E5 ♂ Banu         (di Sumatra)
+    ├── Anak: 272 E6 ♀ Pingah       (di Mungkit Magelang)
+    ├── Anak: 273 E7 ♂ Iman         (di Kediri)
+    └── Anak: 274 E8 ♂ Dirdjo       (di Kemuning Jember)
