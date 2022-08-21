@@ -8263,10 +8263,10 @@
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter12723"
-       x="-0.032217573"
-       y="-0.023692299"
-       width="1.0853556"
-       height="1.0627692">
+       x="-0.27559294"
+       y="-0.54311602"
+       width="1.7425699"
+       height="2.4633959">
       <feFlood
          flood-opacity="0.501961"
          flood-color="rgb(0,0,0)"
@@ -8679,8 +8679,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0133333"
-     inkscape:cx="768.75"
-     inkscape:cy="3072.0395"
+     inkscape:cx="607.89476"
+     inkscape:cy="2835.1975"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -18178,16 +18178,6 @@
            id="tspan9344-3-7-2-6"
            sodipodi:role="line">29.C5</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter12723)"
-       x="428.97461"
-       y="-1070.4432"
-       id="text15571-3"><tspan
-         sodipodi:role="line"
-         id="tspan15569-5"
-         x="428.97461"
-         y="-1070.4432">Istri:</tspan></text>
     <g
        transform="translate(690,-1325)"
        id="g5160"
