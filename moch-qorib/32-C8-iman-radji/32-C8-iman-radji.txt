@@ -13,16 +13,16 @@
 
 131 D3 ♂ Djojosasmito di Trantang
 ╘══ Istri: (685.E3)
-    ├── Anak: 441 E1 ♀ Moh. Sirad (di Kalioso) (lihat 19.E3)
+    ├── Anak: 441 E1 ♀ Moh. Sirad (di Kalioso) (+19.E3)
     ├── Anak: 442 E2 ♂ Moh. Ratmo (+448.E8)
     ├── Anak: 443 E3 ♂ Sja'roni di Trantang (+1072.F2)
-    ├── Anak: 444 E4 ♀ Abdul Latif (lihat 33.E2)
+    ├── Anak: 444 E4 ♀ Abdul Latif (+33.E2)
     └── Anak: 445 E5 ♀ Dalilah (Sulomo) (+18.F1)
 
 132 D4 ♀ Moh Sudjak Naib Baki
     ├── Anak: 446 E1 ♂ Moh. Mufid TB
     ├── Anak: 447 E2 ♂ Damanhuri (+4x) (2029.F1) (782.E1)
-    ├── Anak: 448 E3 ♀ Abd. Mu'min (Anisah) (lihat 442.E2)
+    ├── Anak: 448 E3 ♀ Abd. Mu'min (Anisah) (+442.E2)
     ├── Anak: 449 E4 ♂ Moh Djufri (Naib Baki)
     ├── Anak: 450 E5 ♂ Moh. Wadjizi
     ├── Anak: 451 E6 ♂ Moh. Songad Hagnjosutomo (di Gatak Delanggu)

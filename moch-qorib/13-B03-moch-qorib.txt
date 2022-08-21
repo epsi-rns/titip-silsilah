@@ -99,8 +99,8 @@
 
 . 32 C8 ♀ Iman Radji
 ╘══ Suami: ♂ Iman Radji (putra khalifah di Kartosuro)
-    ├── Anak: 129 D1 ♀ Gitotaruno (6.D2)
-    ├── Anak: 130 D2 ♀ H. Sidik di Kalioso (270.D2)
+    ├── Anak: 129 D1 ♀ Gitotaruno (+6.D2)
+    ├── Anak: 130 D2 ♀ H. Sidik di Kalioso (+270.D2)
     ├── Anak: 131 D3 ♂ Djojosasmito di Trantang (+685.E3)
     └── Anak: 132 D4 ♀ Moh Sudjak Naib Baki
 

@@ -24,7 +24,7 @@ TB
 │   └── Anak: 413 E6 ♀ Wirosumitro
 │
 ╘══ Istri 3: (852.E1)
-    ├── Anak: 414 E7 ♀ Sutosutrojo (lihat 301.E7)
+    ├── Anak: 414 E7 ♀ Sutosutrojo (+301.E7)
     ├── Anak: 415 E8 ♂ Tantoranoto
     └── Anak: 416 E9 ♀ Surani Martoatmodjo
 
@@ -63,15 +63,15 @@ TB (103.D3)
 128 D8 ♂ Djojoredjo (+3x)
 │
 ╞══ Istri 1:
-│   ├── Anak: 433 E1 ♀ Karijosediro (296.E2)
-│   ├── Anak: 434 E2 ♀ Wreksosujahjo (lihat 118.D17)
+│   ├── Anak: 433 E1 ♀ Karijosediro (+296.E2)
+│   ├── Anak: 434 E2 ♀ Wreksosujahjo (+118.D17)
 │   └── Anak: 435 E3 ♂ Kartoatmodjo TB
 │
 ╞══ Istri 2: (340.E2)
-│   └── Anak: 436 E4 ♀ Kartosuwignjo (lihat 369.E6)
+│   └── Anak: 436 E4 ♀ Kartosuwignjo (+369.E6)
 │
 ╘══ Istri 3: (371.D7)
-    ├── Anak: 437 E5 ♀ Sahirin Djojosuhardjo (1038.E4 Samingun)
+    ├── Anak: 437 E5 ♀ Sahirin Djojosuhardjo (+1038.E4 Samingun)
     ├── Anak: 438 E6 ♀ Resodikoro
     ├── Anak: 439 E7 ♂ Sapto
     └── Anak: 440 E8 ♀ Kartidjah (Abdullah)

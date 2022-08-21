@@ -266,11 +266,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.293913"
-     inkscape:cx="658.46776"
-     inkscape:cy="729.56992"
+     inkscape:zoom="0.61913043"
+     inkscape:cx="572.57725"
+     inkscape:cy="575"
      inkscape:document-units="px"
-     inkscape:current-layer="g10165"
+     inkscape:current-layer="g2423"
      showgrid="false"
      inkscape:window-width="1914"
      inkscape:window-height="990"
@@ -317,7 +317,8 @@
      inkscape:label="Diagram"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(10,-337.36206)">
+     transform="translate(10,-337.36206)"
+     sodipodi:insensitive="true">
     <g
        id="g8677"
        transform="translate(300)"
@@ -1952,16 +1953,6 @@
            id="tspan1465"
            x="329.42871"
            y="405.36206">33</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#880e4f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="499.0625"
-         y="154.55688"
-         id="text1154"><tspan
-           sodipodi:role="line"
-           id="tspan1152"
-           x="499.0625"
-           y="154.55688">(+39.C3)</tspan></text>
     </g>
     <g
        id="g7086"

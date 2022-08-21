@@ -9,6 +9,6 @@
 120 D2 ♀ Kromodimedjo (230.D3)
     ├── Anak: 403 E1 ♂ Mangun Jososumarto (+491.E1)
     ├── Anak: 404 E2 ♀ Minhad (+2x) (+226.D3) (+Kayu Apak)
-    ├── Anak: 405 E3 ♀ Wirjodimedjo    (di Keprabon) (lihat 368 D4)
+    ├── Anak: 405 E3 ♀ Wirjodimedjo    (di Keprabon) (+368.D4)
     ├── Anak: 406 E4 ♀ H. Ngumar Sidik (di Keprabon)
     └── Anak: 407 E5 ♀ Sopingi (TB)
