@@ -7,9 +7,9 @@
    inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
    version="1.1"
    id="svg2"
-   viewBox="0 0 1230 1700"
+   viewBox="0 0 1300 1700"
    height="1700"
-   width="1230"
+   width="1300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -224,7 +224,7 @@
     <filter
        id="filter1159"
        inkscape:label="Drop Shadow"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        x="-0.032217569"
        y="-0.30799994"
        width="1.0853556"
@@ -274,10 +274,10 @@
      inkscape:window-height="954"
      inkscape:window-width="1886"
      showgrid="false"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1292"
      inkscape:document-units="px"
-     inkscape:cy="1356.1523"
-     inkscape:cx="707.22656"
+     inkscape:cy="1311.6211"
+     inkscape:cx="740.91795"
      inkscape:zoom="1.7066667"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -302,13 +302,12 @@
      transform="translate(0,370)"
      inkscape:label="Background"
      id="layer3"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <rect
        y="-369.99991"
        x="0"
        height="1700"
-       width="1230"
+       width="1300"
        id="rect4924"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
@@ -685,36 +684,36 @@
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5328"
-         width="239"
+         width="289"
          height="25"
-         x="30.500025"
+         x="30.500023"
          y="1130.5" />
       <rect
          y="1155.5"
-         x="30.500025"
+         x="30.500023"
          height="25"
-         width="239"
+         width="289"
          id="rect5334"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5340"
-         width="239"
+         width="289"
          height="25"
-         x="30.500025"
+         x="30.500023"
          y="1180.5" />
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5346"
-         width="239"
+         width="289"
          height="25"
-         x="30.500025"
+         x="30.500023"
          y="1205.5" />
       <rect
          y="1230.5"
-         x="30.500025"
+         x="30.500023"
          height="25"
-         width="239"
+         width="289"
          id="rect5352"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
@@ -1025,7 +1024,7 @@
     <g
        id="g438"
        style="display:inline;filter:url(#filter1159)"
-       transform="translate(919.99997,-382.63794)">
+       transform="translate(969.99997,-382.63794)">
       <rect
          y="1130.5"
          x="30.500025"
@@ -1207,7 +1206,7 @@
            y="1123.1947">Istri: Sukamti</tspan></text>
     </g>
     <g
-       transform="translate(919.99997,-177.63794)"
+       transform="translate(969.99997,-177.63794)"
        style="display:inline;filter:url(#filter1159)"
        id="g552">
       <rect
@@ -1381,7 +1380,7 @@
            y="1297.1177">♀</tspan></text>
     </g>
     <g
-       transform="translate(919.99997,77.362059)"
+       transform="translate(969.99997,77.362059)"
        style="display:inline;filter:url(#filter1159)"
        id="g672">
       <rect
@@ -1646,7 +1645,7 @@
            y="1348.7876">♂</tspan></text>
     </g>
     <g
-       transform="translate(919.99997,387.36206)"
+       transform="translate(969.99997,387.36206)"
        style="display:inline;filter:url(#filter1159)"
        id="g834">
       <rect
@@ -1832,7 +1831,7 @@
     <g
        id="g934"
        style="display:inline;filter:url(#filter1159)"
-       transform="translate(919.99997,627.36206)">
+       transform="translate(969.99997,627.36206)">
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect896"
@@ -1857,38 +1856,38 @@
        transform="translate(589.9999,-267.63794)">
       <rect
          y="1130.5"
-         x="30.500025"
+         x="30.500023"
          height="25"
-         width="239"
+         width="289"
          id="rect956"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect958"
-         width="239"
+         width="289"
          height="25"
-         x="30.500025"
+         x="30.500023"
          y="1155.5" />
       <rect
          y="1180.5"
-         x="30.500025"
+         x="30.500023"
          height="25"
-         width="239"
+         width="289"
          id="rect960"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          y="1205.5"
-         x="30.500025"
+         x="30.500023"
          height="25"
-         width="239"
+         width="289"
          id="rect962"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect964"
-         width="239"
+         width="289"
          height="25"
-         x="30.500025"
+         x="30.500023"
          y="1230.5" />
       <text
          id="text968"
@@ -2000,17 +1999,17 @@
        inkscape:export-ydpi="96">
       <rect
          y="1130.5"
-         x="30.500025"
+         x="30.500023"
          height="25"
-         width="239"
+         width="289"
          id="rect1048"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1050"
-         width="239"
+         width="289"
          height="25"
-         x="30.500025"
+         x="30.500023"
          y="1155.5" />
       <text
          xml:space="preserve"
@@ -2059,30 +2058,30 @@
        id="g1212">
       <rect
          y="1155.5"
-         x="30.500025"
+         x="30.500023"
          height="25"
-         width="239"
+         width="289"
          id="rect1148"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1150"
-         width="239"
+         width="289"
          height="25"
-         x="30.500025"
+         x="30.500023"
          y="1180.5" />
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1152"
-         width="239"
+         width="289"
          height="25"
-         x="30.500025"
+         x="30.500023"
          y="1205.5" />
       <rect
          y="1230.5"
-         x="30.500025"
+         x="30.500023"
          height="25"
-         width="239"
+         width="289"
          id="rect1154"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
@@ -2176,22 +2175,22 @@
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1232"
-         width="239"
+         width="289"
          height="25"
-         x="30.500025"
+         x="30.500023"
          y="1155.5" />
       <rect
          y="1180.5"
-         x="30.500025"
+         x="30.500023"
          height="25"
-         width="239"
+         width="289"
          id="rect1234"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          y="1205.5"
-         x="30.500025"
+         x="30.500023"
          height="25"
-         width="239"
+         width="289"
          id="rect1236"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
@@ -2257,9 +2256,9 @@
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1310"
-         width="239"
+         width="289"
          height="25"
-         x="30.500025"
+         x="30.500023"
          y="1230.5" />
       <text
          id="text1314"
@@ -2283,9 +2282,9 @@
            sodipodi:role="line">♂</tspan></text>
       <rect
          y="1255.5"
-         x="30.500025"
+         x="30.500023"
          height="25"
-         width="239"
+         width="289"
          id="rect1320"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
@@ -2310,17 +2309,17 @@
            y="1273.7876">♂</tspan></text>
       <rect
          y="1280.5"
-         x="30.500025"
+         x="30.500023"
          height="25"
-         width="239"
+         width="289"
          id="rect1330"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1332"
-         width="239"
+         width="289"
          height="25"
-         x="30.500025"
+         x="30.500023"
          y="1330.5" />
       <text
          xml:space="preserve"
@@ -2331,7 +2330,7 @@
            sodipodi:role="line"
            id="tspan1334"
            x="59.062531"
-           y="1348.1947">Prasetyaningtyas Marsudi Raharjo</tspan></text>
+           y="1348.1947">Ir. Prasetyaningtyas Marsudi Raharjo</tspan></text>
       <text
          id="text1344"
          y="1298.1947"
@@ -2341,7 +2340,7 @@
            y="1298.1947"
            x="59.062531"
            id="tspan1342"
-           sodipodi:role="line">Prof. Dr. Hj. Wahyusri Ambar Arum</tspan></text>
+           sodipodi:role="line">Prof. Dr. Hj. Wahyusri Ambar Arum M.A. Ed.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2355,15 +2354,15 @@
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1350"
-         width="239"
+         width="289"
          height="25"
-         x="30.500025"
+         x="30.500023"
          y="1355.5" />
       <rect
          y="1380.5"
-         x="30.500025"
+         x="30.500023"
          height="25"
-         width="239"
+         width="289"
          id="rect1352"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
@@ -2418,9 +2417,9 @@
            y="1348.7876">♂</tspan></text>
       <rect
          y="1305.5"
-         x="30.500025"
+         x="30.500023"
          height="25"
-         width="239"
+         width="289"
          id="rect1"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
@@ -2981,8 +2980,7 @@
      style="display:inline"
      inkscape:label="Connector"
      id="layer2"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <g
        style="display:inline;stroke-width:1.29099"
        transform="matrix(-1,0,0,0.6000001,304.5,-384.00003)"
@@ -3223,7 +3221,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(-1,0,0,1,59.999924,85.999989)"
+       transform="matrix(-1,0,0,1,109.99992,85.999989)"
        id="g446"
        style="display:inline">
       <path
@@ -3247,7 +3245,7 @@
     </g>
     <g
        id="g600"
-       transform="matrix(-1,0,0,1,59.999934,-94.000001)"
+       transform="matrix(-1,0,0,1,109.99993,-94.000001)"
        style="display:inline">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3282,7 +3280,7 @@
     </g>
     <g
        id="g946"
-       transform="matrix(-1,0,0,1,59.999934,176)"
+       transform="matrix(-1,0,0,1,109.99993,176)"
        style="display:inline">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3433,7 +3431,7 @@
     </g>
     <g
        id="g486"
-       transform="matrix(-1,0,0,1,59.999924,-69.000001)"
+       transform="matrix(-1,0,0,1,109.99992,-69.000001)"
        style="display:inline">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3468,7 +3466,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(-1,0,0,1,59.999934,-63.999981)"
+       transform="matrix(-1,0,0,1,109.99993,-63.999981)"
        id="g762">
       <path
          inkscape:connector-curvature="0"
