@@ -135,15 +135,16 @@ Catatan: sumber belum tentu benar.
 │   └── Anak: ♀ Sri Kusumastuti
 │
 └── Anak: ♂ R.M. Sugiharto Tondosaputro
-    ├── Anak: ♀ Ny Sendang Nurastuti Rustamaji
-    ├── Anak: ♀ Eni Cahyani Suminaredi Agus S.
-    ├── Anak: ♂ Utomo Budisatrio
+    ├── Anak: ♀ Sendang Nur Astuti
+    ├── Anak: ♀ Ir. Hj. Tjahjani Suminar Edi, MMA
+    ├── Anak: ♂ Utomo Budi Satrio S.T.
     ├── Anak: ♂ Prih Wardoyo Adikarso
-    ├── Anak: ♂ Bambang Mahanani, SH
-    ├── Anak: ♀ Dra Wahyu Sri Ambararum
-    ├── Anak: ? Prasetyaningtias Marsudi Raharjo
-    ├── Anak: ♀ Sulistyowati W.S.
-    └── Anak: ♀ Aryati Sekarasih
+    ├── Anak: ♂ Bambang Sesotya Mahanani, SH
+    ├── Anak: ♀ Prof. Dr. Hj. Wahyusri Ambar Arum M.A. Ed.
+    ├── Anak: ♀ Ir. Hj. Kuncorowati Sri Rahayu
+    ├── Anak: ♂ Ir. Prasetyaningtyas Marsudi Raharjo
+    ├── Anak: ♀ Dra. Sulistyowati Winahyu Siwi
+    └── Anak: ♀ Aryati Sekar Asih B.A.
 
 -- -- --
 
@@ -160,10 +161,10 @@ Catatan: sumber belum tentu benar.
 │
 ├── Anak: ♀ R.Ay. Parmantinah Suyatmo
 │   ├── Anak: ♂ R.M. Jarod Subroto
-│   ├── Anak: ♂ R.M. Hadipurnomo
+│   ├── Anak: ♂ R.M. Hadi Purnomo
 │   ├── Anak: ♀ R.Ay. Retno Rahayu Sukrohadi
-│   ├── Anak: ♀ R.Ay. Esti Fahastati Nurhadi Utomo
-│   └── Anak: ♀ R.Ay. Esti Wahyuni Kusbandrio
+│   ├── Anak: ♀ R.Ay. Estri Fahastati Nurhadi Utomo
+│   └── Anak: ♀ R.Ay. Esti Wahyuni Kusbandriyo
 │
 └── Anak: ♀ R.Ay. Parmantini Hadmando
     ├── Anak: ♀ R.Ay. Sri Bernati Abimanyu

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
    inkscape:export-filename="/home/epsi/Documents/retnosari/retnosari-lengkap.png"
    sodipodi:docname="retnosari-lengkap.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
    version="1.1"
    id="svg2"
    viewBox="0 0 1230 1700"
    height="1700"
-   width="1230">
+   width="1230"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -130,11 +130,13 @@
        is_visible="true"
        lpeversion="0" />
     <filter
-       height="1.8"
-       width="1.2"
+       height="2.3725691"
+       width="1.0626466"
        id="filter2707"
        inkscape:label="Drop Shadow"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.02325028"
+       y="-0.50940709">
       <feFlood
          id="feFlood2697"
          result="flood"
@@ -164,11 +166,13 @@
          in="SourceGraphic" />
     </filter>
     <filter
-       height="1.8"
-       width="1.2"
+       height="1.5700643"
+       width="1.0466855"
        id="filter2731"
        inkscape:label="Drop Shadow"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-0.017326565"
+       y="-0.21157025">
       <feFlood
          id="feFlood2721"
          result="flood"
@@ -220,7 +224,11 @@
     <filter
        id="filter1159"
        inkscape:label="Drop Shadow"
-       style="color-interpolation-filters:sRGB;">
+       style="color-interpolation-filters:sRGB;"
+       x="-0.032217569"
+       y="-0.30799994"
+       width="1.0853556"
+       height="1.8159999">
       <feFlood
          id="feFlood1149"
          result="flood"
@@ -260,23 +268,25 @@
      fit-margin-left="0"
      fit-margin-top="0"
      units="px"
-     inkscape:window-maximized="1"
-     inkscape:window-y="24"
-     inkscape:window-x="0"
-     inkscape:window-height="982"
-     inkscape:window-width="1906"
+     inkscape:window-maximized="0"
+     inkscape:window-y="38"
+     inkscape:window-x="1934"
+     inkscape:window-height="954"
+     inkscape:window-width="1886"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="828.99756"
-     inkscape:cx="334.92188"
-     inkscape:zoom="0.42666667"
+     inkscape:cy="1356.1523"
+     inkscape:cx="707.22656"
+     inkscape:zoom="1.7066667"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -285,7 +295,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -304,7 +313,6 @@
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
-     sodipodi:insensitive="true"
      transform="translate(10,-162.36206)"
      id="layer1"
      inkscape:groupmode="layer"
@@ -1986,7 +1994,10 @@
     <g
        id="g1144"
        style="display:inline;filter:url(#filter1159)"
-       transform="translate(589.99997,-87.637942)">
+       transform="translate(589.99997,-87.637942)"
+       inkscape:export-filename="/home/epsi/Documents/retnosari/g1144.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <rect
          y="1130.5"
          x="30.500025"
@@ -2030,7 +2041,7 @@
            y="1173.1947"
            x="59.062531"
            id="tspan1082"
-           sodipodi:role="line">Sudarti</tspan></text>
+           sodipodi:role="line">Dwi Lestari</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2158,7 +2169,10 @@
     <g
        id="g1292"
        style="display:inline;filter:url(#filter1159)"
-       transform="translate(589.99997,162.3621)">
+       transform="translate(589.99997,162.3621)"
+       inkscape:export-filename="/home/epsi/Documents/retnosari/g1292.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1232"
@@ -2189,7 +2203,7 @@
            id="tspan1254"
            y="1223.1947"
            x="59.062531"
-           sodipodi:role="line">Utomo Budisatrio</tspan></text>
+           sodipodi:role="line">Utomo Budi Satrio S.T.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2209,7 +2223,7 @@
            y="1198.1947"
            x="59.062531"
            id="tspan1262"
-           sodipodi:role="line">Eni Cahyani Suminaredi Agus S.</tspan></text>
+           sodipodi:role="line">Ir. Hj. Tjahjani Suminar Edi, MMA</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2229,7 +2243,7 @@
            sodipodi:role="line"
            id="tspan1270"
            x="59.062531"
-           y="1173.1947">Ny Sendang Nurastuti Rustamaji</tspan></text>
+           y="1173.1947">Sendang Nur Astuti</tspan></text>
       <text
          id="text1276"
          y="1172.1177"
@@ -2283,7 +2297,7 @@
            id="tspan1322"
            y="1273.1947"
            x="59.062531"
-           sodipodi:role="line">Bambang Mahanani, SH</tspan></text>
+           sodipodi:role="line">Bambang Sesotya Mahanani, SH</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2307,17 +2321,17 @@
          width="239"
          height="25"
          x="30.500025"
-         y="1305.5" />
+         y="1330.5" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#880e4f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="59.062531"
-         y="1323.1947"
+         y="1348.1947"
          id="text1336"><tspan
            sodipodi:role="line"
            id="tspan1334"
            x="59.062531"
-           y="1323.1947">Prasetyaningtias Marsudi Raharjo</tspan></text>
+           y="1348.1947">Prasetyaningtyas Marsudi Raharjo</tspan></text>
       <text
          id="text1344"
          y="1298.1947"
@@ -2327,7 +2341,7 @@
            y="1298.1947"
            x="59.062531"
            id="tspan1342"
-           sodipodi:role="line">Dra Wahyu Sri Ambararum</tspan></text>
+           sodipodi:role="line">Prof. Dr. Hj. Wahyusri Ambar Arum</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2344,9 +2358,9 @@
          width="239"
          height="25"
          x="30.500025"
-         y="1330.5" />
+         y="1355.5" />
       <rect
-         y="1355.5"
+         y="1380.5"
          x="30.500025"
          height="25"
          width="239"
@@ -2354,44 +2368,81 @@
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text1356"
-         y="1373.1947"
+         y="1398.1947"
          x="59.062531"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#880e4f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="1373.1947"
+           y="1398.1947"
            x="59.062531"
            id="tspan1354"
-           sodipodi:role="line">Aryati Sekarasih</tspan></text>
+           sodipodi:role="line">Aryati Sekar Asih B.A.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="37.436554"
-         y="1372.1177"
+         y="1397.1177"
          id="text1360"><tspan
            sodipodi:role="line"
            id="tspan1358"
            x="37.436554"
-           y="1372.1177">♀</tspan></text>
+           y="1397.1177">♀</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#880e4f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="59.062531"
-         y="1348.1947"
+         y="1373.1947"
          id="text1364"><tspan
            sodipodi:role="line"
            id="tspan1362"
            x="59.062531"
-           y="1348.1947">Sulistyowati W.S.</tspan></text>
+           y="1373.1947">Dra. Sulistyowati Winahyu Siwi</tspan></text>
       <text
          id="text1368"
-         y="1347.1177"
+         y="1372.1177"
          x="37.436554"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="1347.1177"
+           y="1372.1177"
            x="37.436554"
            id="tspan1366"
            sodipodi:role="line">♀</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="37.531769"
+         y="1348.7876"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           x="37.531769"
+           y="1348.7876">♂</tspan></text>
+      <rect
+         y="1305.5"
+         x="30.500025"
+         height="25"
+         width="239"
+         id="rect1"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text2"
+         y="1323.1947"
+         x="59.062531"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#880e4f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1323.1947"
+           x="59.062531"
+           id="tspan2"
+           sodipodi:role="line">Ir. Hj. Kuncorowati Sri Rahayu</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="37.436554"
+         y="1322.1177"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="37.436554"
+           y="1322.1177">♀</tspan></text>
     </g>
     <g
        transform="translate(289.99997,82.362059)"
@@ -2536,7 +2587,10 @@
     <g
        id="g1514"
        style="display:inline;filter:url(#filter1159)"
-       transform="translate(289.99997,297.36206)">
+       transform="translate(289.99997,297.36206)"
+       inkscape:export-filename="/home/epsi/Documents/retnosari/g1514.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <rect
          y="1130.5"
          x="30.500025"
@@ -2601,7 +2655,7 @@
            y="1148.1947"
            x="59.062531"
            id="tspan1482"
-           sodipodi:role="line">R.M. Hadipurnomo</tspan></text>
+           sodipodi:role="line">R.M. Hadi Purnomo</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2621,7 +2675,7 @@
            y="1198.1947"
            x="59.062531"
            id="tspan1498"
-           sodipodi:role="line">R.Ay. Esti Fahastati Nurhadi Utomo</tspan></text>
+           sodipodi:role="line">R.Ay. Estri Fahastati Nurhadi Utomo</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
